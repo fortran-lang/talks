@@ -25,8 +25,10 @@
 **Title**: Fortran Standard Library
 
 **Abstract**:
-The Fortran Standard, as published by the International Organization for Standardization (ISO), does not include a Standard Library. Therefore, the goal of this project is to provide a community driven and agreed upon de facto "standard" library for Fortran, called Fortran Standard Library (stdlib; https://github.com/fortran-lang/stdlib).
-This library aims to provide to the community a set of procedures for science, engineering, and mathematics. Among others, this aims to include procedures for manipulating strings and files, for assertions and unit testing, but also, e.g., for searching and sorting algorithms, linear algebra, sparse matrices, or statistics.
-Started a few months ago, no less than 15 people already contributed to the development of the Fortran Standard Library and its documentation. Currently the library includes procedures for catching and handling errors, handling optional arguments, facilitating I/O operations, linear algebra, numerical integration, and descriptive statistics. Many other programmers are also involved in active discussions about the development of the Fortran Standard Library though GitHub issues. The development of this library also aims to be in collaboration with the Fortran Standards Committee.
-
-
+The Fortran Standard, as published by the International Organization for Standardization (ISO), does not include a Standard Library.
+Therefore, the goal of this project is to provide a community driven and agreed upon de facto "standard" library for Fortran, called Fortran Standard Library (stdlib; https://github.com/fortran-lang/stdlib).
+This library aims to provide to the community a set of procedures for science, engineering, and mathematics. Among others, it will include procedures for manipulating strings and files, for assertions and unit testing, but also, e.g., for searching and sorting algorithms, linear algebra, sparse matrices, or statistics.
+Started a few months ago, no less than 15 people already contributed to the development of the Fortran Standard Library and its documentation.
+Currently the library includes procedures for catching and andling errors, handling optional arguments, facilitating I/O operations, linear algebra, numerical integration, and descriptive statistics.
+Many other programmers are also involved in active discussions about the development of the Fortran Standard Library though GitHub issues.
+The development of this library is part of the Fortran-lang project and aims to be in collaboration with the Fortran Standards Committee.
