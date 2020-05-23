@@ -28,7 +28,7 @@
 
 **Abstract**:
 The Fortran Standard, as published by the International Organization for Standardization (ISO), does not include a Standard Library.
-Therefore, the goal of this project is to provide a community driven and agreed upon de facto "standard" library for Modern Fortran, called Fortran Standard Library (stdlib; https://github.com/fortran-lang/stdlib).
+Therefore, the goal of this project is to provide a community driven and agreed upon de facto "standard" library for Modern Fortran, called the Fortran Standard Library (stdlib; https://github.com/fortran-lang/stdlib).
 This library aims to provide to the community a set of procedures for science, engineering, and mathematics. Among others, it will include procedures for manipulating strings and files, for assertions and unit testing, but also, e.g., for searching and sorting algorithms, linear algebra, sparse matrices, or statistics.
 Started a few months ago, no less than 15 people already contributed to the development of the Fortran Standard Library and its documentation.
 Currently the library includes procedures for catching and handling errors, handling optional arguments, facilitating I/O operations, linear algebra, numerical integration, and descriptive statistics.
