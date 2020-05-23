@@ -14,7 +14,7 @@ Despite the developments of the language itself, its user base has been
 declining as the result. 
 Many new software projects are now being started in languages like C++, Python,
 or Julia, despite Fortran being better suited for the task at hand.
-In this talk, we'll discuss the need for and the development of the new 
+In this talk, we'll discuss the need for and the ongoing development of the new
 fortran-lang (https://fortran-lang.org) community and its suite of projects.
 Fortran-lang aims to provide a central place for Fortran users, beginning and 
 expert alike, to find a set of recommended tools, libraries, tutorials, and 
