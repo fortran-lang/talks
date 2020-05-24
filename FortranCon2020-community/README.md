@@ -11,7 +11,7 @@ Besides a few discussion boards and mailing lists, Fortran has not had a
 healthy online community in the modern internet era, like many other 
 programming languages have.
 Despite the developments of the language itself, its user base has been 
-declining as the result. 
+declining as a result. 
 Many new software projects are now being started in languages like C++, Python,
 or Julia, despite Fortran being better suited for the task at hand.
 In this talk, we'll discuss the need for and the ongoing development of the new
