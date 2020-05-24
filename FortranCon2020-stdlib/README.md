@@ -1,7 +1,7 @@
 # FortranCon2020-stdlib
 
 **Authors**:
-[Balint Arady](https://github.com/aradi)
+[Bálint Aradi](https://github.com/aradi)
 [Izaak Beekman](https://github.com/zbeekman)
 [Neil Carlson](https://github.com/nncarlson)
 [Ondrej Certik](https://github.com/certik)
