@@ -13,7 +13,7 @@
 [Michael Hirsch](https://github.com/scivision)
 [Ivan Pribec](https://github.com/ivan-pi)
 [???](https://github.com/sakamoti)
-[???](https://github.com/nshaffer)
+[Nathaniel Shaffer](https://github.com/nshaffer)
 [Jeremie Vandenplas](https://github.com/jvdp1)
 [Ashwin Vishnu](https://github.com/ashwinvis)
 
