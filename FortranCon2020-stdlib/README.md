@@ -29,6 +29,7 @@
 
 **Abstract**:
 The Fortran Standard, as published by the International Organization for Standardization (ISO), does not include a Standard Library.
+The language can be extended with new intrinsic procedure and modules, but these must be formally standardized and then implemented by compiler vendors before becoming available to users.
 Therefore, the goal of this project is to provide a community driven and agreed upon de facto "standard" library for Modern Fortran, called the Fortran Standard Library (stdlib; https://github.com/fortran-lang/stdlib).
 This library aims to provide to the community a set of procedures for science, engineering, and mathematics.
 The overall scope of the Fortran Standard Library is therefore similar to the one of SciPy or to the default built-in Matlab scientific environment.
