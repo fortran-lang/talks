@@ -31,5 +31,5 @@ discussion venues that are inclusive and welcoming of newcomers to the language.
 We believe that an organized community and a home of Fortran on the internet,
 in addition to the ongoing work by the Standards Committee and compiler developers,
 are essential for the long-term thriving -- and not just mere survival -- of Fortran.
-Finally, we'll discuss the next steps, the one-year vision, and the 10-year
+Finally, we will discuss the next steps, the one-year vision, and the 10-year
 vision for going forward.
