@@ -4,6 +4,7 @@
 
 **Co-authors**:
 [Ondrej Certik](https://github.com/certik),
+[Laurence Kedward](https://github.com/lkedward),
 [Vincent Magnin](https://github.com/vmagnin),
 [Brad Richardson](https://github.com/everythingfunctional),
 [Jeremie Vandenplas](https://github.com/jvdp1).
