@@ -6,6 +6,7 @@
 [Ondrej Certik](https://github.com/certik),
 [Laurence Kedward](https://github.com/lkedward),
 [Vincent Magnin](https://github.com/vmagnin),
+[Ivan Pribec](https://github.com/ivan-pi),
 [Brad Richardson](https://github.com/everythingfunctional),
 [Jeremie Vandenplas](https://github.com/jvdp1).
 
