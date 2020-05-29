@@ -25,8 +25,6 @@
 
 **Title**: Fortran Standard Library
 
-**Alternative title**: Fortran Standard Library - a community project
-
 **Abstract**:
 The Fortran Standard, as published by the International Organization for Standardization (ISO), does not include a Standard Library.
 The language can be extended with new intrinsic procedure and modules, but these must be formally standardized and then implemented by compiler vendors before becoming available to users.
@@ -35,5 +33,5 @@ This library aims to provide to the community a set of procedures for science, e
 The overall scope of the Fortran Standard Library is therefore similar to the one of SciPy or to the default built-in Matlab scientific environment.
 Currently the library includes procedures for catching and handling errors, handling optional arguments, facilitating I/O operations, linear algebra, numerical integration, and descriptive statistics.
 Started a few months ago, no less than 15 people already contributed to the development of the Fortran Standard Library and its documentation.
-Many other programmers are also involved in active discussions about the development of the Fortran Standard Library through GitHub issues.
+Many other programmers are also involved in active discussions about its development through GitHub issues.
 The development of this library is part of the Fortran-lang project and aims to collaborate with the Fortran Standards Committee.
