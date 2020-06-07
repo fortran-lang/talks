@@ -6,6 +6,6 @@
 [Vincent Magnin](https://github.com/vmagnin),
 [Ivan Pribec](https://github.com/ivan-pi),
 [Brad Richardson](https://github.com/everythingfunctional),
-[Jeremie Vandenplas](https://github.com/jvdp1).
+and [Jeremie Vandenplas](https://github.com/jvdp1)
 
 2 July 2020
