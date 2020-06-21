@@ -8,27 +8,28 @@
 
 ### Four pillars of fortran-lang
 
-1. Community
-2. Standard Library 🧰
-3. Package Manager 📦
+1. Standard Library 🧰
+2. Package Manager 📦
+3. Compilers
 4. Website
 </section>
 
 
 <section>
 
-### First pillar: Community
+### First pillar: Standard Library 🧰
 </section>
 
 <section>
 
-### Second pillar: Standard Library
+### Second pillar: Package Manager 📦
 </section>
 
 <section>
 
-### Third pillar: Package Manager 📦
+### Third pillar: Compilers
 </section>
+
 
 <section>
 

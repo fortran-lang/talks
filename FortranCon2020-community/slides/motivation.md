@@ -1,57 +1,92 @@
-<!--
-Fortran has been traditionally developed by compiler vendors, 
-and later also by the standards committee.
-It was a mainstream language when computing was a niche,
-and became a niche language when computing turned mainstream.
-It is the oldest high-level language still in use today,
-and thus originates in the pre-internet era. 
--->
-
 <section>
 
-### Why do we need an online Fortran community?
+### Problem and Motivation
 </section>
 
 <section>
 
-### Developed by vendors and committees 
+### Problem and Motivation
 
-* Traditionally, Fortran has been developed by compiler
-vendors and standards committees
-* Vendors follow the buck (customers)
-* Committees follow the vendors
-
-=> Individual developers left behind
-</section>
-
-<section>
-
-### A niche language
-
-* Fortran was mainstream when computing was niche 
-* Niche when computing turned mainstream
-
-=> Difficult to find other developers and learning resources
+* Fortran lacks modern tooling
+* Poor ecosystem of libraries
+* Fortran users are scattered and disconnected
+* New user adoption is diminishing
+* New Fortran projects are diminishing
 </section>
 
 
 <section>
 
-#### Originated in the pre-internet era
+### Fortran lacks modern tooling
 
+* No comprehensive standard library
+* No go-to build system
+* No package management solution
+* Open source compilers few and far between
+
+=> Fortran is hard to work with
+</section>
+
+
+<section>
+
+### Poor general purpose library ecosystem
+
+* Fortran originated in the pre-internet era
 * Before email, websites, or version control
 * GitHub? Forget about it!
+* Many wheels re-invented but not published
 
-=> Scarce open source library ecosystem
+➡ Scarce open source library ecosystem
 </section>
+
 
 <section>
 
-#### Where we are now
+### Fortran users are scattered and disconnected
 
-* No connected and organized community of developers
-* No small-to-medium sized projects started in Fortran
-* Many applications + few libraries = little code reuse
-* New software projects not started in Fortran
-despite it being optimal for the task at hand
+* Difficult to find other users
+* Conferences and meetups few and far between
+* Feeling alone is not fun
+* It makes you re-invent the wheel
+* It makes you want to give up
+</section>
+
+
+<section>
+
+### Fortran also has a PR problem
+
+* Most of society still only knows of FORTRAN
+* Mainframes, punchcards, and UPPERCASE
+* Images deeply engraved into the cultural DNA
+* Fortran is not the village idiot of programming languages,
+yet, it is being treated as such
+
+➡ This is bad. We need to change it.
+</section>
+
+
+<section>
+
+### Our goals for Fortran
+
+* Fortran should be _easy_ to work with
+* Fortran should be _fun_ to work with
+* Working with Fortran should spark joy
+* It should feel like play and not work
+</section>
+
+
+<section>
+
+### How do we get there?
+
+We need:
+
+* A rich standard library
+* An easy-to-use, fast package manager
+* A cutting-edge open source compiler and interpreter 
+* A modern, beautiful website and learning resources
+* A welcoming and inclusive online community
 </section>
