@@ -12,6 +12,7 @@
 * Lack of a Fortran interpreter makes rapid prototyping
 difficult
 * Flang and LFortran under development (both LLVM based) 
+* Lacking support for GPUs and other emerging platforms
 </section>
 
 

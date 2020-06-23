@@ -10,8 +10,8 @@
 
 1. Standard Library 🧰
 2. Package Manager 📦
-3. Compilers
-4. Website
+3. Compilers ⚙
+4. Website 🌐
 </section>
 
 
@@ -27,11 +27,11 @@
 
 <section>
 
-### Third pillar: Compilers
+### Third pillar: Compilers ⚙
 </section>
 
 
 <section>
 
-### Fourth pillar: Website
+### Fourth pillar: Website 🌐
 </section>

@@ -6,13 +6,24 @@
 
 <section>
 
+### Next steps
+
+* stdlib and fpm under ongoing development
+* Draft an fpm specification, begin Fortran implementation
+* Get more users for stdlib and fpm
+* Write tutorials for fortran-lang.org
+</section>
+
+
+<section>
+
 ### One year outlook
 
 * 50+ active contributors 👫👫
 * Stable (non-experimental) release of stdlib
 * Fortran implementation of fpm
 * fpm can install most modern Fortran projects
-* Complete mini-books on most Fortran features
+* Complete tutorials on most Fortran features
 </section>
 
 
@@ -23,6 +34,7 @@
 * Google Summer of Code 2021
 * Seek sponsorship to support travel to meetings
 * NumFocus or non-profit organization
+* Present at conferences: FortranCon, SciPyConf, Supercomputing
 </section>
 
 <section>
