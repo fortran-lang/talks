@@ -1,6 +1,6 @@
 <section>
 
-### fortran-lang.org
+## fortran-lang.org 🌐
 </section>
 
 <section>
@@ -9,8 +9,9 @@
 
 * A central place for all Fortran users to find everything they need
 * Tutorials, compilers, and other resources
-* A discussion board
+* A moderated discussion board
 * Mailing list
+* Newsletter
 </section>
 
 <section>

@@ -1,4 +1,6 @@
 <section>
 
-### Fortran Discourse
+### Discourse, mailing list, newsletter
+
+TODO
 </section>

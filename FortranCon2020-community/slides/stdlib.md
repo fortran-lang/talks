@@ -1,6 +1,6 @@
 <section>
 
-### Fortran Standard Library (stdlib)
+## Fortran Standard Library (stdlib) 🧰
 </section>
 
 

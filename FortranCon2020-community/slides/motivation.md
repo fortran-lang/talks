@@ -1,6 +1,6 @@
 <section>
 
-### Problem and Motivation
+## Problem and Motivation
 </section>
 
 <section>
@@ -12,6 +12,8 @@
 * Fortran users are scattered and disconnected
 * New user adoption is diminishing
 * New Fortran projects are diminishing
+
+➡ Fortran is on life support
 </section>
 
 
@@ -24,18 +26,18 @@
 * No package management solution
 * Open source compilers few and far between
 
-=> Fortran is hard to work with
+➡ Fortran is difficult to work with
 </section>
 
 
 <section>
 
-### Poor general purpose library ecosystem
+### Poor library ecosystem
 
 * Fortran originated in the pre-internet era
 * Before email, websites, or version control
 * GitHub? Forget about it!
-* Many wheels re-invented but not published
+* Many wheels re-invented but not shared
 
 ➡ Scarce open source library ecosystem
 </section>
@@ -47,9 +49,9 @@
 
 * Difficult to find other users
 * Conferences and meetups few and far between
-* Feeling alone is not fun
-* It makes you re-invent the wheel
-* It makes you want to give up
+* Feeling alone is not fun:
+  - It makes you re-invent the wheel
+  - It makes you want to give up
 </section>
 
 
@@ -69,12 +71,12 @@ yet, it is being treated as such
 
 <section>
 
-### Our goals for Fortran
+### Our desires for Fortran
 
-* Fortran should be _easy_ to work with
-* Fortran should be _fun_ to work with
-* Working with Fortran should spark joy
+* Fortran should be easy and fun to work with
 * It should feel like play and not work
+* Run Fortran code on any architecture--CPUs, GPUs, emerging architectures
+* Rich ecosystem of open source libraries
 </section>
 
 
@@ -87,6 +89,6 @@ We need:
 * A rich standard library
 * An easy-to-use, fast package manager
 * A cutting-edge open source compiler and interpreter 
-* A modern, beautiful website and learning resources
+* A modern, beautiful website and learning resources to attract new users
 * A welcoming and inclusive online community
 </section>

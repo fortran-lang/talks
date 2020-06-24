@@ -1,6 +1,6 @@
 <section>
 
-### Next steps
+## Next steps
 </section>
 
 
@@ -42,7 +42,7 @@
 ### Ten-year outlook
 
 * 100+ active contributors 👫👫👫👫
-* Mature open source compiler and interpreter ⚙
+* Mature open source compiler and interpreter targeting CPUs, GPUs, and other emerging platforms ⚙
 * stdlib ships with all major compilers 🧰
 * Seek sponsorship to support full-time developers 💵
 </section>

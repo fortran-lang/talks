@@ -1,6 +1,6 @@
 <section>
 
-### Compilers
+## Compilers ⚙
 </section>
 
 
@@ -13,6 +13,16 @@
 difficult
 * Flang and LFortran under development (both LLVM based) 
 * Lacking support for GPUs and other emerging platforms
+</section>
+
+
+<section>
+
+### Long-term goals
+
+* Community developed open source compiler and interpreter
+* Native and seamless support for CPUs, GPUs, and other emerging platforms
+* Cross-platform for major OS's
 </section>
 
 

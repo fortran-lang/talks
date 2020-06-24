@@ -1,5 +1,5 @@
 ### Challenges
 
-* Bullet 1
-* Bullet 2
-* Bullet 3
+* Currently not funded
+* We learn as we go 
+* Sometimes we disagree

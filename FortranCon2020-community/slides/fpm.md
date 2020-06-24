@@ -1,6 +1,6 @@
 <section>
 
-### Fortran Package Manager (fpm)
+## Fortran Package Manager (fpm) 📦
 </section>
 
 <section>
