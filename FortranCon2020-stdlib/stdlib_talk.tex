@@ -116,19 +116,32 @@ Nathaniel Shaffer}
 	\vspace{-0.8cm}
 	\begin{tabular}{ccc}
 		\textcolor{white}{\bf Module} &\textcolor{white}{\bf Description} &\textcolor{white}{\bf \# procedures} \\
-		ascii & & 16\\
+		ascii & String manipulations & 16\\
 		error & Catching and handling errors & 2\\
 		io & Input/output helper and convenience & 3\\
-		kinds & & -\\
+		kinds & Kind definition & -\\
 		linalg & Linear algebra & 3\\
 		optval & Fallback value for optional arguments & 1\\
 		quadrature & Numerical integration & 4\\
 		stats & Descriptive statistics & 5\\
-		system & & 1 \\
+		system & OS utilities & 1 \\
 	\end{tabular}
 	\end{block}
 \end{frame}
 
+
+\begin{frame}[c]{Currently implemented in stdlib}
+	Support of \textcolor{blue}{any rank} (up to 15) and \textcolor{blue}{any kind}
+	(\textcolor{mygreen}{integer}, \textcolor{mygreen}{real}, \textcolor{mygreen}{complex})
+	\begin{itemize}
+		\item When appropriate
+		\item \textcolor{blue}{Meta-programming}
+		\begin{itemize}
+			\item \textit{fypp} = Python powered preprocessor
+		\end{itemize}
+		\item E.g., for the function `mean`: 600 auto-generated functions
+	\end{itemize}
+\end{frame}
 
 \begin{frame}[fragile]{Examples}
 	\begin{lstlisting}
@@ -158,7 +171,7 @@ Nathaniel Shaffer}
 	  integer, intent(in), optional :: n
 	  root = x**(1.0/optval(n, 2))
 	end function
-	\end{lstlisting}
+	...	\end{lstlisting}
 \end{frame}
 
 
@@ -179,7 +192,7 @@ Nathaniel Shaffer}
 			\item \textit{Syntax}
 			\item \textit{Arguments}
 			\item \textit{Output} / \textit{Return value}
-			\item \textit{Example}
+			\item \textit{Example(s)}
 		\end{itemize}
 	\end{itemize}
 
@@ -229,7 +242,7 @@ Nathaniel Shaffer}
 
 
 \begin{frame}[c]{Acknowledgments}
-	
+	To do: List all contributors to stdlib
 \end{frame}
 
 \begin{frame}[c]{}
