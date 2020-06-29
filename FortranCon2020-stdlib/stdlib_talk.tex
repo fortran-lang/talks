@@ -62,6 +62,9 @@ Nathaniel Shaffer}
 			\item After standardization and implementation in compilers
 		\end{itemize}
 		\item No Standard Library
+		\begin{itemize}
+			\item Several attempts in the past (e.g. available on GitHub)
+		\end{itemize}
 	\end{itemize}
 	\center
 	\textcolor{red}{\textbf{Consequence: we all reinvent the wheel continuously!}}
@@ -72,7 +75,7 @@ Nathaniel Shaffer}
 	\center
 	\Large
 	\textcolor{blue}{Develop} and \textcolor{blue}{provide}\\
-	a \textcolor{blue}{community} driven and agreed upon de facto\\
+	a \textcolor{blue}{community} driven and agreed-upon de facto\\
 	\textcolor{blue}{standard library}\\
 	for Modern Fortran
 \end{frame}
@@ -83,8 +86,12 @@ Nathaniel Shaffer}
 	\begin{itemize}
 		\item One of the four pillars of \textcolor{blue}{fortran-lang}
 		\item \textcolor{blue}{MIT} License
-		\item GitHub: https://github.com/fortran-lang/stdlib
-		\item API docs: https://stdlib.fortran-lang.org
+		\item Aims to collaborate with the Fortran Standard Committee
+		\item Links:
+		\begin{itemize}
+			\item GitHub: https://github.com/fortran-lang/stdlib
+			\item API docs: https://stdlib.fortran-lang.org
+		\end{itemize}
 	\end{itemize}
 \end{frame}
 
@@ -107,6 +114,21 @@ Nathaniel Shaffer}
 		\begin{itemize}
 			\item Containers, strings, files, OS/environment integration, unit testing, assertions, logging, ...
 		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+
+\begin{frame}[c]{Currently discussed in stdlib}
+	Several discussions on:
+	\begin{itemize}
+		\item Assertion
+		\item Logging
+		\item OS integration
+		\item Random numbers
+		\item Sparse matrices
+		\item Special functions
+		\item Strings
+		\item ...
 	\end{itemize}
 \end{frame}
 
@@ -143,6 +165,39 @@ Nathaniel Shaffer}
 	\end{itemize}
 \end{frame}
 
+\begin{frame}[fragile]{Example - \textit{optval} + \textit{fypp}}
+	
+	\begin{lstlisting}
+	#:set KINDS_TYPES = REAL_KINDS_TYPES + INT_KINDS_TYPES + &
+	  & CMPLX_KINDS_TYPES + [('l1','logical')]
+	...
+	#:for k1, t1 in KINDS_TYPES
+	pure elemental function optval_${t1[0]}$${k1}$(x, default)&
+	    result(y)
+	    ${t1}$, intent(in), optional :: x
+	    ${t1}$, intent(in) :: default
+	    ${t1}$ :: y
+	    ...
+	end function optval_${t1[0]}$${k1}$
+	#:endfor\end{lstlisting}
+
+\end{frame}
+
+
+\begin{frame}[fragile]{Example - \textit{optval}}
+	\begin{lstlisting}
+	...
+	use  stdlib_experimental_optval, only: optval
+	...
+	real function root(x, n)
+	  real, intent(in) :: x
+	  integer, intent(in), optional :: n
+	  root = x**(1.0/optval(n, 2))
+	end function
+	...	\end{lstlisting}
+\end{frame}
+
+
 \begin{frame}[fragile]{Examples}
 	\begin{lstlisting}
 	...
@@ -157,20 +212,6 @@ Nathaniel Shaffer}
 	...
  	call savetxt('moment.dat',&
 	  moment(A, order = 3, dim = 1, mask = (A > 5.)))
-	...	\end{lstlisting}
-\end{frame}
-
-
-\begin{frame}[fragile]{Example - optval}
-	\begin{lstlisting}
-	...
-	use  stdlib_experimental_optval, only: optval
-	...
-	real function root(x, n)
-	  real, intent(in) :: x
-	  integer, intent(in), optional :: n
-	  root = x**(1.0/optval(n, 2))
-	end function
 	...	\end{lstlisting}
 \end{frame}
 
@@ -200,43 +241,56 @@ Nathaniel Shaffer}
 
 
 \begin{frame}[c]{Contributions through GitHub}
-	https://github.com/fortran-lang/stdlib\\
-	\textcolor{blue}{Source codes}
+	%https://github.com/fortran-lang/stdlib\\
+	Since \textcolor{blue}{December 2019}:
+	\begin{itemize}
+	\item \textcolor{blue}{Source codes}
 	\begin{itemize}
 		\item 16 contributors
 		\item $>$ 100 Pull Requests
 	\end{itemize}
-	\textcolor{blue}{Issues / ideas / comments}
+	\item \textcolor{blue}{Issues / ideas / comments}
 	\begin{itemize}
 		\item 47 contributors
 		\item $>$ 110 GitHub issues
+	\end{itemize}	
 	\end{itemize}	
 \end{frame}
 
 
 \begin{frame}[c]{How to contribute to stdlib?}
+	\begin{center}
+	\Huge{\textcolor{red}{Any contribution is welcome!}}
+	\end{center}
+\end{frame}
+
+\begin{frame}[c]{How to contribute to stdlib?}
 	\textcolor{blue}{Through GitHub}\\
 	\begin{itemize}
-		\item Issues
+		\item \textcolor{mygreen}{Issues}
 		\begin{itemize}
 			\item Proposition of ideas, issues, comments
 		\end{itemize}
-		\item Pull Requests
+		\item \textcolor{mygreen}{Pull Requests}
 		\begin{itemize}
 			\item To contribute to the source code and specs
+			\item Might be based on existing contributors' code (License!)
 		\end{itemize}
 	\end{itemize}
 	\textcolor{blue}{Code of Conduct}\\
+	\begin{itemize}
+		\item Please check it first!
+	\end{itemize}
 \end{frame}
 
 \begin{frame}[c]{Contributing to the source code?}
-	\textcolor{blue}{Workflow}
+	\textcolor{blue}{Workflow} (See the complete description on GitHub)
 	\begin{enumerate}
 		\item Proposition of an \textbf{idea}
 		\item Proposition of the \textbf{API}
 		\item Discussion of the \textbf{specs}
 		\item Pull request of an \textbf{implementation} in the experimental namespace + associated unit tests
-		\item Stable \textbf{release} of procedures in the experimental namespace
+		\item Stable \textbf{release} of procedures in the experimental namespace (still to be clarified)
 	\end{enumerate}
 \end{frame}
 
