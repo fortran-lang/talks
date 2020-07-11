@@ -1,8 +1,7 @@
 ### Takeaways
 
-* Takeaway 1
-* Takeaway 2
-* Takeaway 3
-* Join us!
+1. fortran-lang is a young community project for the betterment of Fortran
+2. Standard library, package manager, and the website are the current ongoing projects
+3. Toward a community compiler and collaboration with vendors and standard committees
 
-https://fortran-lang.org
+Join us: https://fortran-lang.org

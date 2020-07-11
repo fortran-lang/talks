@@ -1,7 +1,6 @@
 <section>
 
-### Community
+## Community
 
-TODO: Show everybody who contributed across all projects, 
-perhaps some contribution statistics as well
+<iframe src='https://fortran-lang.org/community' style='height:500px; width:1000px'></iframe>
 </section>

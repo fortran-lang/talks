@@ -1,5 +1,6 @@
-### Challenges
+## Challenges
 
 * Currently not funded
-* We learn as we go 
 * Sometimes we disagree
+* Scaling up the community
+* We learn as we go 

@@ -12,6 +12,7 @@
 * Draft an fpm specification, begin Fortran implementation
 * Get more users for stdlib and fpm
 * Write tutorials for fortran-lang.org
+* Collaborate with J3 and WG5 as much as we can
 </section>
 
 
@@ -19,7 +20,7 @@
 
 ### One year outlook
 
-* 50+ active contributors 👫👫
+* 50+ active code contributors 👫👫
 * Stable (non-experimental) release of stdlib
 * Fortran implementation of fpm
 * fpm can install most modern Fortran projects
@@ -41,7 +42,7 @@
 
 ### Ten-year outlook
 
-* 100+ active contributors 👫👫👫👫
+* 100+ active code contributors 👫👫👫👫
 * Mature open source compiler and interpreter targeting CPUs, GPUs, and other emerging platforms ⚙
 * stdlib ships with all major compilers 🧰
 * Seek sponsorship to support full-time developers 💵

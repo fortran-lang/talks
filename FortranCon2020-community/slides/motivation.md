@@ -7,13 +7,13 @@
 
 ### Problem and Motivation
 
-* Fortran lacks modern tooling
-* Poor ecosystem of libraries
-* Fortran users are scattered and disconnected
-* New user adoption is diminishing
-* New Fortran projects are diminishing
+Fortran is a powerful, easy-to-learn language, and
 
-➡ Fortran is on life support
+1. It lacks modern tooling
+2. Has a poor ecosystem of libraries
+3. Its users are scattered and disconnected
+
+➡ **User adoption and new Fortran projects are diminishing**
 </section>
 
 
@@ -26,7 +26,7 @@
 * No package management solution
 * Open source compilers few and far between
 
-➡ Fortran is difficult to work with
+➡ **Great language that can be difficult to work with**
 </section>
 
 
@@ -34,12 +34,12 @@
 
 ### Poor library ecosystem
 
-* Fortran originated in the pre-internet era
+* Fortran started in the pre-internet era
 * Before email, websites, or version control
 * GitHub? Forget about it!
-* Many wheels re-invented but not shared
+* Scarce open source library ecosystem
 
-➡ Scarce open source library ecosystem
+➡ **Many wheels re-invented but not shared**
 </section>
 
 
@@ -48,10 +48,10 @@
 ### Fortran users are scattered and disconnected
 
 * Difficult to find other users
+* No central online presence
 * Conferences and meetups few and far between
-* Feeling alone is not fun:
-  - It makes you re-invent the wheel
-  - It makes you want to give up
+  
+➡ **Difficult to stay motivated and makes you re-invent the wheel**
 </section>
 
 
@@ -65,7 +65,7 @@
 * Fortran is not the village idiot of programming languages,
 yet, it is being treated as such
 
-➡ This is bad. We need to change it.
+➡ **This is bad. We need to change it.**
 </section>
 
 
@@ -75,8 +75,8 @@ yet, it is being treated as such
 
 * Fortran should be easy and fun to work with
 * It should feel like play and not work
-* Run Fortran code on any architecture--CPUs, GPUs, emerging architectures
 * Rich ecosystem of open source libraries
+* Run Fortran code on any architecture: CPUs, GPUs, emerging platforms
 </section>
 
 

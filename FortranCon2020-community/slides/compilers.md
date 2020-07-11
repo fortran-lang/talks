@@ -20,15 +20,17 @@ difficult
 
 ### Long-term goals
 
-* Community developed open source compiler and interpreter
+* Community-developed open source compiler and interpreter
+* Prototype language features before including them in the standard
 * Native and seamless support for CPUs, GPUs, and other emerging platforms
 * Cross-platform for major OS's
+* Closer collaboration with commercial vendors
 </section>
 
 
 <section>
 
-### Compiler talks at FortranCon 2020
+### Compiler talks at FortranCon
 
 * gfortran talk by Thomas König
 * Flang talk by Gary Klimowicz
