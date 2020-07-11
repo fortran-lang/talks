@@ -1,5 +1,9 @@
 # FortranCon2020-community
 
+Slides for the FortranCon2020 community talk.
+Content is licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
+Reveal.js is licensed under [MIT](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
+
 **Presenter**: [Milan Curcic](https://github.com/milancurcic)
 
 **Co-authors**:
