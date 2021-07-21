@@ -2,7 +2,7 @@
 
 __Presenter:__ [Jakub Jelinek](https://github.com/kubajj) (TBC)
 
-__Co-Authors:__ [Laurence Kedward](https://github.com/LKedward), [Brad Richardson](https://github.com/everythingfunctional)
+__Co-Authors:__ [Laurence Kedward](https://github.com/LKedward), [Brad Richardson](https://github.com/everythingfunctional), [Sebastian Ehlert](https://github.com/awvwgk)
 
 __Session:__ Fortran-lang
 
