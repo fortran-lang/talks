@@ -1,27 +1,27 @@
 # FortranCon2020-stdlib
 
 **Authors**:
-[Nathaniel Shaffer](https://github.com/nshaffer), nrshaffer@protonmail.com, University of Rochester
-[Gabriel Brown](https://github.com/ghbrown),, University of Illinois Urbana-Champagne
-[Ondrej Certik](https://github.com/certik), ondrej@certik.us, Los Alamos National Laboratory
-[William Clodius](https://githiub.com/wclodius2),,
-[Robert Cohn](https://github.com/rscohn2), robert.s.cohn@intel.com, Intel Corporation
-[Milan Curcic](https://github.com/milancuric), caomaco@gmail.com, University of Miami
-[Laurence Kedward](https://github.com/lkedward), laurence.kedward@bristol.ac.uk, University of Bristol
-[Sebastian Ehlert](https://github.com/awvwgk),, 
-[gareth-nx ???](https://github.com/gareth-nx),,
-[Aman Godara](https://github.com/Aman-Godara),,
-[Jing ???](https://github.com/Jim-215-Fisher),,
-[Chetan Karwa](https://github.com/chetankarwa),,
-[Arjen Markus](https://github.com/arjenmarkus),,
-[Ian Giestas Pauli](https://github.com/14NGiestas), iangiestas@usp.br, São Paolo University
-[Wileam Phan](https://github.com/wyphan),, 
-[Ivan Pribec](https://github.com/ivan-pi), ivan.pribec@tum.de, Technical University of Munich
-[Yuichiro Sakamoto](https://github.com/sakamoti),,
-[Harris Snyder](https://github.com/hsnyder),, 
-[Jeremie Vandenplas](https://github.com/jvdp1), jeremie.vandenplas@wur.nl, Wageningen University & Research
-[Evan Voyles](https://github.com/ejovo13), Evan.Voyles@kzoo.edu, Kalamazoo College
-[Carlos Une](https://github.com/brocolis),,
+[Nathaniel Shaffer](https://github.com/nshaffer) (University of Rochester), 
+[Gabriel Brown](https://github.com/ghbrown) (University of Illinois Urbana-Champagne), 
+[Ondrej Certik](https://github.com/certik) (Los Alamos National Laboratory),
+[William Clodius](https://githiub.com/wclodius2),
+[Robert Cohn](https://github.com/rscohn2) (Intel Corporation)
+[Milan Curcic](https://github.com/milancuric) (University of Miami),
+[Laurence Kedward](https://github.com/lkedward) (University of Bristol),
+[Sebastian Ehlert](https://github.com/awvwgk) (University of Bonn),
+[gareth-nx ???](https://github.com/gareth-nx),
+[Aman Godara](https://github.com/Aman-Godara),
+[Jing ???](https://github.com/Jim-215-Fisher),
+[Chetan Karwa](https://github.com/chetankarwa),
+[Arjen Markus](https://github.com/arjenmarkus),
+[Ian Giestas Pauli](https://github.com/14NGiestas) (São Paolo University),
+[Wileam Phan](https://github.com/wyphan) (University of Tennessee, Knoxville), 
+[Ivan Pribec](https://github.com/ivan-pi), (Technical University of Munich),
+[Yuichiro Sakamoto](https://github.com/sakamoti),
+[Harris Snyder](https://github.com/hsnyder), 
+[Jeremie Vandenplas](https://github.com/jvdp1) (Wageningen University & Research),
+[Evan Voyles](https://github.com/ejovo13) (Kalamazoo College),
+[Carlos Une](https://github.com/brocolis)
 
 
 **To be acknowledged in the presentation (following comments):**
