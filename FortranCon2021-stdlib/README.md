@@ -1,4 +1,4 @@
-# FortranCon2020-stdlib
+# FortranCon2021-stdlib
 
 **Authors**:
 [Nathaniel Shaffer](https://github.com/nshaffer) (University of Rochester), 
