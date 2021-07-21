@@ -1,10 +1,10 @@
 # FortranCon2021: Handling Compiler Flags in fpm (GSoC)
 
-__Presenter:__ [Jakub Jelinek](https://github.com/kubajj) (TBC)
+__Presenter:__ [Jakub Jelinek](https://github.com/kubajj)
 
 __Co-Authors:__ [Laurence Kedward](https://github.com/LKedward), [Brad Richardson](https://github.com/everythingfunctional), [Sebastian Ehlert](https://github.com/awvwgk)
 
-__Session:__ Fortran-lang
+__Session:__ Fortran-lang minisymposium (10 min)
 
 __Abstract:__
 The Fortran Package Manager (fpm) aims to be a Fortran-specific build system to simplify compiling Fortran code and using third-party dependencies.
