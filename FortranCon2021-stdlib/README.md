@@ -3,7 +3,7 @@
 **Authors**:
 [Nathaniel Shaffer](https://github.com/nshaffer) (University of Rochester), 
 [Gabriel Brown](https://github.com/ghbrown) (University of Illinois Urbana-Champagne), 
-[Ondrej Certik](https://github.com/certik) (Los Alamos National Laboratory),
+[Ondřej Čertik](https://github.com/certik) (Los Alamos National Laboratory),
 [William Clodius](https://githiub.com/wclodius2),
 [Robert Cohn](https://github.com/rscohn2) (Intel Corporation)
 [Milan Curcic](https://github.com/milancuric) (University of Miami),
