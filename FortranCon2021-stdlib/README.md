@@ -33,7 +33,7 @@
 **Title**: Fortran Standard Library
 
 **Abstract**:
-The Fortran standard library is now well into its second year of development.
+The Fortran standard library (stdlib) is now well into its second year of development.
 In this past year, stdlib has grown not only in its functionality but in its contributor base, with most of the new development coming from new contributors, including two Google Summer of Code students.
 Stdlib provides new functionality for working with bit sets, logging, quadrature, sorting, strings, and more.
 In addition to new capabilities in stdlib itself, there have also been several technical improvements to the documentation, workflow, and build system.
