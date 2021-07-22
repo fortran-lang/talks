@@ -35,7 +35,7 @@ Fortran package manager
 With the Fortran package manager (fpm) we are building the foundation of a new ecosystem for Fortran libraries and projects.
 The main goal of fpm is to create a reliable and productive tool and improve the user experience for Fortran programmers. 
 It provides an easy-to-use way to build applications and use libraries, making it especially easy to reuse projects as dependencies.
-Fpm takes care of fetching and building all transient dependencies used compiling the main project.
+Fpm takes care of fetching and building all transitive dependencies used to compile the main project.
 An intuitive command-line interface is available to run, test, and install Fortran projects on any platform.
 Support for all major Fortran compilers and platforms is readily available and community agreed-on default settings for all compilers are available.
 
