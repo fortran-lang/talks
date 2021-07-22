@@ -34,7 +34,8 @@
 
 **Abstract**:
 The Fortran standard library is now well into its second year of development.
-In this past year, stdlib has grown not only in its functionality but in its contributor base, with most of the new development coming from new contributors, including two Google Summer of Code students. 
+In this past year, stdlib has grown not only in its functionality but in its contributor base, with most of the new development coming from new contributors, including two Google Summer of Code students.
+Stdlib provides new functionality for working with bit sets, logging, quadrature, sorting, strings, and more.
 In addition to new capabilities in stdlib itself, there have also been several technical improvements to the documentation, workflow, and build system.
 Among these are steps towards supporting the Fortran Package Manager (fpm) both for building stdlib as a standalone library and for incorporating stdlib as a dependency in fpm projects.
 These enhancements bring stdlib closer to its goal of being a featureful and easy-to-use library for general and widespread use.
