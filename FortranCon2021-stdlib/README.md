@@ -9,7 +9,7 @@
 [Milan Curcic](https://github.com/milancuric) (University of Miami),
 [Laurence Kedward](https://github.com/lkedward) (University of Bristol),
 [Sebastian Ehlert](https://github.com/awvwgk) (University of Bonn),
-[gareth-nx ???](https://github.com/gareth-nx),
+[Gareth Davies](https://github.com/gareth-nx),
 [Aman Godara](https://github.com/Aman-Godara),
 [Jing ???](https://github.com/Jim-215-Fisher),
 [Chetan Karwa](https://github.com/chetankarwa),
