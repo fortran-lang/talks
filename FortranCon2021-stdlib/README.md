@@ -30,7 +30,7 @@
 
 **Presenter**: [Nathaniel Shaffer](https://github.com/nshaffer)
 
-**Title**: Fortran Standard Library
+**Title**: What's new in the Fortran Standard Library?
 
 **Abstract**:
 The Fortran standard library (stdlib) is now well into its second year of development.
