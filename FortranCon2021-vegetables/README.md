@@ -13,7 +13,7 @@ Does it help you to make changes to functionality, or get in the way?
 Would a new developer find it useful for getting their bearings in your project?
 Can you tell which requirement a given test is meant to verify?
 Experience in the nuclear power industry,
-with it's emphasis on quality assurance and high standards for verification,
+with its emphasis on quality assurance and high standards for verification,
 provides motivation to always have satisfactory answers to these questions.
 This presentation provides guidance for writing a well organized suite of tests that leads to positive answers to the previous questions.
 The primary lesson is that a test suite organized as an executable verification of the requirements of the project
