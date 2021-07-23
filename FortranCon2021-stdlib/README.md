@@ -2,7 +2,7 @@
 
 **Authors**:
 [Nathaniel Shaffer](https://github.com/nshaffer) (University of Rochester), 
-[Gabriel Brown](https://github.com/ghbrown) (University of Illinois Urbana-Champagne), 
+[Gabriel Brown](https://github.com/ghbrown) (University of Illinois Urbana-Champaign), 
 [Ondřej Čertik](https://github.com/certik) (Los Alamos National Laboratory),
 [William Clodius](https://githiub.com/wclodius2),
 [Robert Cohn](https://github.com/rscohn2) (Intel Corporation)
