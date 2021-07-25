@@ -2,7 +2,7 @@
 
 __Presenter__: [Aman Godara](https://aman-godara.github.io)
 
-__Co-Authors__: [Sebastian Ehlert](https://github.com/awvwgk), [Milan Curcic](https://github.com/milancuric)
+__Co-Authors__: [Sebastian Ehlert](https://github.com/awvwgk), [Milan Curcic](https://github.com/milancurcic)
 
 __Session__: Fortran-lang Mini Symposium
 
