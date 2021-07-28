@@ -6,7 +6,7 @@
 [Ondřej Čertik](https://github.com/certik) (Los Alamos National Laboratory),
 [William Clodius](https://githiub.com/wclodius2),
 [Robert Cohn](https://github.com/rscohn2) (Intel Corporation)
-[Milan Curcic](https://github.com/milancuric) (University of Miami),
+[Milan Curcic](https://github.com/milancurcic) (University of Miami),
 [Laurence Kedward](https://github.com/lkedward) (University of Bristol),
 [Sebastian Ehlert](https://github.com/awvwgk) (University of Bonn),
 [Gareth Davies](https://github.com/gareth-nx),
