@@ -36,10 +36,10 @@ A language-specific package manager is an important element to build an efficien
 Fortran has long missed a dedicated package manager, making the user experience of practitioners cumbersome.
 With the Fortran package manager (fpm) we are addressing these needs creating a reliable and productive tool that makes building applications and using libraries intuitive.
 Fpm takes care of fetching and building all transitive dependencies used to build the main project making especially easy to reuse other projects.
-An intuitive command-line interface is available to run, test, and install Fortran projects on any platform.
+As a cross-platform reproducable development and production environment fpm simplifies the difficulties in building, running, testing, and installing Fortran-centric projects.
 Support for all major Fortran compilers and platforms is readily available and community agreed-on default settings for all compilers are available.
 
 Fpm is written in Fortran and built with itself, making it easy to bootstrap and install fpm on any platform with a Fortran compiler.
 The positive effect of a Fortran implementation is the easy accessibility of the codebase, which enables the community to contribute back and improve fpm further.
-Fpm already found adoption even for large-scale projects with several hundred to thousand of Fortran source files today.
-After one year of development of fpm's Fortran implementation, it is already available in distributions like conda-forge, homebrew, or msys2.
+While fpm is relatively new and still rapidly developing, it already found adoption even for large-scale projects with several hundred to thousand of Fortran source files today.
+Features to incorporate build requirements emerging from developing parallel applications, like OpenMP, coarrays, MPI, GPUs, or integrations with GUI environments are planned or under active development.
