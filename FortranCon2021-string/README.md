@@ -7,10 +7,9 @@ __Co-Authors__: [Sebastian Ehlert](https://github.com/awvwgk), [Milan Curcic](ht
 __Session__: Fortran-lang Mini Symposium
 
 __Abstract__:  
-Aiming to provide better strings support in **Fortran** *stdlib* now has *string_type* module, which still is in its experimental phase, which defines the underlying structure of strings. Keeping in mind the unprecedented need to change the underlying structure, modules providing support for string operations (*stdlib_strings*) and list of strings (*stdlib_stringlist*) are kept separate, also allowing for parallel development.
-
-Developers are required to ensure, irrespective of the underlying structure and sequence of operations, that the abstraction provided is intuitive, easy to understand and equips a user only with the necessary details to work with strings.
-
-To continue to serve its past users and gain new users, the community has adopted a philosophy of making **Fortran** more interactive, keeping APIs at a low-level first to slowly build up to high-level ones with the community's acceptance and making APIs backward compatible. Adoption of this philosophy was critical for the acceptance of the *stdlib* as the "go-to" library for writing **Fortran** programs.
-
+To provide better support for strings, the Fortran Standard Library (*stdlib*) introduces the `string_type` module with a derived type of the same name.
+The `string_type` derived type is compatible with all standard intrinsic procedures that work with the `character` type, and other high-level string inquiry and manipulation procedures, such as `slice`, `find`, and `replace_all`.
+Two other modules, one for general string operations (`stdlib_strings`) and another for lists of strings (`stdlib_stringlist`) are developed separately, allowing for parallel development.
+As this is a work in progress, we welcome any feedback from the Fortran community to design an intuitive and easy-to-use strings user interface.
+To serve its past and new users alike, *stdlib* adopts a philosophy to keep low-level APIs first, and incrementally build up to high-level ones with the community's acceptance and in a backward compatible fashion. We believe that the adoption of this philosophy is critical for the acceptance of the *stdlib* as the "go-to" library for writing Fortran programs.
 Since the start of the project, several functionalities like *slice*, *find*, *replace_all*, etc have been added to *stdlib* adhering to the philosophy and abstraction and many are under development.
