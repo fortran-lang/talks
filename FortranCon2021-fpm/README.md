@@ -6,7 +6,7 @@
 - [Milan Curcic](https://github.com/milancurcic)
 - [Jakub Jelínek](https://github.com/kubajj)
 - [Laurence Kedward](https://github.com/lkedward)
-- [Vincent Magnin](https://github.com/vmagnin
+- [Vincent Magnin](https://github.com/vmagnin)
 - [Emanuele Pagone](https://github.com/epagone)
 - [Brad Richardson](https://github.com/everythingfunctional)
 - [John Urban](https://github.com/urbanjost)
