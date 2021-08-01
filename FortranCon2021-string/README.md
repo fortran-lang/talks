@@ -14,5 +14,4 @@ Since the start of the project, several string inquiry and manipulation procedur
 Every type of usage from common ones like *reversing a string* to peculiar ones like *finding n-th non-overlapping substring* are developed in close collaboration with the community.
 Flexible high-level procedures like *slice* catering to every possible need while low-level APIs like *count* are optimized to readily build upon (as stand-alone or in combination with other provided APIs) to meet any specific requirement of a user.
 
-All procedures work both with deferred-length intrinsic character as smoothly as with *string_type*.
-This allows seamless integration of stdlib's string processing with existing projects.
+All procedures work with deferred-length intrinsic character as smoothly as with *string_type*. This allows for a seamless integration of stdlib's string processing with the existing projects. Moreover, APIs being backward compatible will continue to serve old projects even with their latest versions.
