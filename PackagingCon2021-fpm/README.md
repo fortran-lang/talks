@@ -3,6 +3,7 @@
 ## Authors
 
 - [Sebastian Ehlert](https://github.com/awvwgk)
+- [Ondřej Čertík](https://github.com/certik)
 - [Milan Curcic](https://github.com/milancurcic)
 - [Jakub Jelínek](https://github.com/kubajj)
 - [Laurence Kedward](https://github.com/lkedward)
