@@ -1,0 +1,62 @@
+\documentclass[lualatex,10pt]{beamer}
+\usepackage{unicode-math}
+\usepackage{fontspec}
+\setmainfont{Source Sans Pro}
+\setsansfont[BoldFont=Source Sans Pro Semi-Bold, ItalicFont=Source Sans Pro Italic]{Source Sans Pro}
+\setmonofont[BoldFont=Source Code Pro Semi-Bold, ItalicFont=Source Code Pro Light Italic]{Source Code Pro Light}
+\usepackage{tikz}
+\usepackage[normalem]{ulem}
+\usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage{xfrac}
+
+\tikzset{
+   blue shade/.style={ shade, left color=blue, right color=light, text width=\textwidth, rounded corners=1ex, outer sep=0pt, inner sep=1.2ex, white, font=\large\bfseries },
+   yellow shade/.style={ shade, left color=yellow, right color=light, text width=\textwidth, rounded corners=1ex, outer sep=0pt, inner sep=1.2ex, dark, font=\large\bfseries } }
+
+\definecolor{red}{HTML}{FF7700}
+\definecolor{blue}{HTML}{004F9F}
+\definecolor{green}{HTML}{2DCC35}
+\definecolor{yellow}{HTML}{FBB900}
+
+\pgfdeclareimage[width=.025\paperwidth]{logo}{Figures/logo-fortran}
+\usecolortheme{MCTC}
+\useoutertheme[subsection=false]{MCTC}
+\useinnertheme{rounded}
+\useinnertheme{rectangles}
+\setbeamertemplate{page number in head/foot}[framenumber]
+
+\title{Fortran package manager}
+\subtitle{Toward a rich ecosystem of Fortran packages}
+\author[Sebastian Ehlert]{\underbar{Sebastian~Ehlert},
+Ondřej~Čertík,
+Milan~Curcic,
+Jakub~Jelínek,
+Laurence~Kedward,
+Vincent~Magnin,
+Emanuele~Pagone,
+Brad~Richardson,
+John~Urban}
+\institute{\includegraphics[width=.5in]{Figures/logo-fortran}}
+\date{24th September, 2021\\FortranCon}
+
+\begin{document}
+
+\setbeamercolor{normal text}{fg=light,bg=dark}
+\begin{frame}[plain]
+   \titlepage
+\end{frame}
+\setbeamercolor{normal text}{fg=dark,bg=light!50}
+
+\section{Motivation}
+
+\begin{frame}{Motivation}
+\end{frame}
+
+
+\section{Summary}
+
+\begin{frame}{Summary}
+\end{frame}
+
+\end{document}
