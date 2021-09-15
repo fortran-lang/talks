@@ -1,173 +1,173 @@
-https://github.com/14NGiestas/fregex
-https://github.com/14NGiestas/mfi
-https://github.com/14NGiestas/shunting-yard-fortran
-https://github.com/AshyIsMe/flox
-https://github.com/AshyIsMe/fortran-playground
-https://github.com/LKedward/fhash
-https://github.com/LKedward/netcdf-interfaces
-https://github.com/LKedward/stdlib-fpm
-https://github.com/Lima-Lima/fsqlite
-https://github.com/SHTOOLS/SHTOOLS
-https://github.com/St-Maxwell/Hf_Timer
-https://github.com/St-Maxwell/QCkits
-https://github.com/allixender/rhpix_fortran_test
-https://github.com/arjenmarkus/pointsets
-https://github.com/art-rasa/fnote
-https://github.com/art-rasa/math
-https://github.com/art-rasa/rational_number
-https://github.com/awvwgk/blas-interface
-https://github.com/awvwgk/check-version
-https://github.com/awvwgk/cuckoohash
-https://github.com/awvwgk/simple-dftd3
-https://github.com/awvwgk/stdlib_string
-https://github.com/awvwgk/tblite
-https://github.com/awvwgk/test-internal-io
-https://github.com/awvwgk/waterhash
-https://github.com/brocolis/blas
-https://github.com/brocolis/c-util
-https://github.com/brocolis/cairo-fortran
-https://github.com/brocolis/cmath_constants
-https://github.com/brocolis/dynload-base
-https://github.com/brocolis/dynload-julia
-https://github.com/brocolis/dynload-pcre
-https://github.com/brocolis/fftpack
-https://github.com/brocolis/fortran-pcre
-https://github.com/brocolis/fpm-search
-https://github.com/brocolis/ode
-https://github.com/brocolis/os-id
-https://github.com/brocolis/quadpack
-https://github.com/certik/minpack
-https://github.com/cure-honey/uzura1_fpm
-https://github.com/dftd4/dftd4
-https://github.com/exepulveda/gslib2.0
-https://github.com/f66blog/xplot
-https://github.com/fortran-fans/fftpack4.0-public-domain
-https://github.com/fortran-fans/fftpack5.1-GPL
-https://github.com/fortran-fans/fftpack5.1-NACR
-https://github.com/fortran-fans/forlab
-https://github.com/fortran-fans/fortsa
-https://github.com/fortran-gaming/blocktran
-https://github.com/fortran-gaming/mastermind
-https://github.com/fortran-lang/fftpack
-https://github.com/fortran-lang/fortran-forum-article-template
-https://github.com/fortran-lang/fpm
-https://github.com/fortran-lang/test-drive
-https://github.com/geospace-code/h5fortran
-https://github.com/geospace-code/maptran3d
-https://github.com/grimme-lab/gcp
-https://github.com/grimme-lab/mctc-lib
-https://github.com/grimme-lab/mstore
-https://github.com/grimme-lab/multicharge
-https://github.com/grimme-lab/nlopt-f
-https://github.com/grimme-lab/numsa
-https://github.com/grimme-lab/rmsd-tool
-https://github.com/han190/PE-Fortran
-https://github.com/hfp/libxsmm
-https://github.com/interkosmos/fortran-curl
-https://github.com/interkosmos/fortran-sdl2
-https://github.com/interkosmos/fortran-sqlite3
-https://github.com/interkosmos/fortran-unix
-https://github.com/itamarlouco/trabalhoIA
-https://github.com/ivan-pi/LINPACK
-https://github.com/ivan-pi/SMMP
-https://github.com/ivan-pi/fortran-flann
-https://github.com/ivan-pi/hs-sort
-https://github.com/ivan-pi/stiff3
-https://github.com/ivan-pi/y12m
-https://github.com/jacobwilliams/NumDiff
-https://github.com/jacobwilliams/PCHIP
-https://github.com/jacobwilliams/bspline-fortran
-https://github.com/jacobwilliams/finterp
-https://github.com/jacobwilliams/fortran-csv-module
-https://github.com/jacobwilliams/json-fortran
-https://github.com/jacobwilliams/pikaia
-https://github.com/jacobwilliams/pyplot-fortran
-https://github.com/jacobwilliams/roots-fortran
-https://github.com/jacobwilliams/slsqp
-https://github.com/jbdv-no/to_f90
-https://github.com/jinleiphys/fortran-article
-https://github.com/jphaupt/cuda_eg
-https://github.com/keurfonluu/FFTPack
-https://github.com/kookma/ogpf
-https://github.com/marvinfriede/hartree-fock
-https://github.com/milancurcic/fortran202x_split
-https://github.com/modern-fortran/neural-fortran
-https://github.com/nedlrichards/fpm_test
-https://github.com/princemahajan/FLINT
-https://github.com/renatomatz/cafut
-https://github.com/renatomatz/otf
-https://github.com/sourceryinstitute/FEATS
-https://github.com/sourceryinstitute/assert
-https://github.com/sourceryinstitute/miniFAVOR
-https://github.com/sourceryinstitute/sourcery
-https://github.com/toml-f/toml-f
-https://github.com/urbanjost/M_CLI
-https://github.com/urbanjost/M_CLI2
-https://github.com/urbanjost/M_LA
-https://github.com/urbanjost/M_OS
-https://github.com/urbanjost/M_args
-https://github.com/urbanjost/M_attr
-https://github.com/urbanjost/M_blas
-https://github.com/urbanjost/M_calcomp
-https://github.com/urbanjost/M_calculator
-https://github.com/urbanjost/M_color
-https://github.com/urbanjost/M_draw
-https://github.com/urbanjost/M_escape
-https://github.com/urbanjost/M_factor
-https://github.com/urbanjost/M_history
-https://github.com/urbanjost/M_intrinsics
-https://github.com/urbanjost/M_io
-https://github.com/urbanjost/M_kracken
-https://github.com/urbanjost/M_kracken95
-https://github.com/urbanjost/M_list
-https://github.com/urbanjost/M_match
-https://github.com/urbanjost/M_matrix
-https://github.com/urbanjost/M_msg
-https://github.com/urbanjost/M_ncurses
-https://github.com/urbanjost/M_path
-https://github.com/urbanjost/M_pixel
-https://github.com/urbanjost/M_process
-https://github.com/urbanjost/M_readline
-https://github.com/urbanjost/M_slices
-https://github.com/urbanjost/M_sort
-https://github.com/urbanjost/M_strings
-https://github.com/urbanjost/M_system
-https://github.com/urbanjost/M_time
-https://github.com/urbanjost/M_uuid
-https://github.com/urbanjost/easy
-https://github.com/urbanjost/fpm-man
-https://github.com/urbanjost/general-purpose-fortran
-https://github.com/urbanjost/prep
-https://github.com/urbanjost/testit
-https://github.com/vmagnin/formidi
-https://github.com/vmagnin/forsynth
-https://github.com/vmagnin/fundamental_constants
-https://github.com/vmagnin/gtkzero_fpm
-https://github.com/wavebitscientific/datetime-fortran
-https://github.com/wavebitscientific/functional-fortran
-https://github.com/willdickson/fqs-aero
-https://github.com/willdickson/h5fortran-wbd-experimental
-https://github.com/zoziha/SPH
-https://github.com/zoziha/fftpack-4
-https://github.com/zoziha/fftpack-5
-https://github.com/zoziha/fortsa
-https://github.com/zoziha/mini-test
-https://gitlab.com/everythingfunctional/binary_tree
-https://gitlab.com/everythingfunctional/cmdff
-https://gitlab.com/everythingfunctional/erloff
-https://gitlab.com/everythingfunctional/hello_fpm
-https://gitlab.com/everythingfunctional/helloff
-https://gitlab.com/everythingfunctional/heterogeneous_list
-https://gitlab.com/everythingfunctional/iso_varying_string
-https://gitlab.com/everythingfunctional/jsonff
-https://gitlab.com/everythingfunctional/make_vegetable_driver
-https://gitlab.com/everythingfunctional/matterff
-https://gitlab.com/everythingfunctional/parff
-https://gitlab.com/everythingfunctional/quaff
-https://gitlab.com/everythingfunctional/quaff_gnuplot_units
-https://gitlab.com/everythingfunctional/quaff_latex_units
-https://gitlab.com/everythingfunctional/recursive_data_structure_example
-https://gitlab.com/everythingfunctional/sqliteff
-https://gitlab.com/everythingfunctional/stack_example
-https://gitlab.com/everythingfunctional/strff
-https://gitlab.com/everythingfunctional/vegetables
+2021-08-17 14:50:46 -0300	https://github.com/14NGiestas/fregex
+2021-04-26 10:14:55 -0300	https://github.com/14NGiestas/mfi
+2021-04-23 13:46:56 -0300	https://github.com/14NGiestas/shunting-yard-fortran
+2021-08-14 22:48:41 +1000	https://github.com/AshyIsMe/flox
+2021-08-30 19:10:15 +1000	https://github.com/AshyIsMe/fortran-playground
+2020-10-14 09:57:44 +0100	https://github.com/LKedward/fhash
+2021-04-22 15:49:34 +0100	https://github.com/LKedward/netcdf-interfaces
+2020-12-17 14:37:15 +0000	https://github.com/LKedward/stdlib-fpm
+2021-03-19 09:23:26 +0100	https://github.com/Lima-Lima/fsqlite
+2020-07-10 23:19:24 +0200	https://github.com/SHTOOLS/SHTOOLS
+2021-06-05 01:08:25 +0800	https://github.com/St-Maxwell/Hf_Timer
+2021-03-26 21:37:23 +0800	https://github.com/St-Maxwell/QCkits
+2021-02-22 13:50:02 +0200	https://github.com/allixender/rhpix_fortran_test
+2020-08-03 19:11:08 +0200	https://github.com/arjenmarkus/pointsets
+2021-01-16 23:17:46 +0200	https://github.com/art-rasa/fnote
+2021-01-03 00:43:38 +0200	https://github.com/art-rasa/math
+2021-01-03 19:15:10 +0200	https://github.com/art-rasa/rational_number
+2021-07-02 07:19:53 +0200	https://github.com/awvwgk/blas-interface
+2020-12-14 14:20:15 +0100	https://github.com/awvwgk/check-version
+2021-07-05 23:00:17 +0200	https://github.com/awvwgk/cuckoohash
+2020-11-14 16:02:36 +0100	https://github.com/awvwgk/simple-dftd3
+2021-02-05 21:44:43 +0100	https://github.com/awvwgk/stdlib_string
+2021-04-11 00:21:22 +0200	https://github.com/awvwgk/tblite
+2021-04-10 21:13:27 +0200	https://github.com/awvwgk/test-internal-io
+2021-07-04 22:09:09 +0200	https://github.com/awvwgk/waterhash
+2021-04-05 21:01:27 -0300	https://github.com/brocolis/blas
+2021-06-06 22:50:49 -0300	https://github.com/brocolis/c-util
+2021-04-03 21:00:16 -0300	https://github.com/brocolis/cairo-fortran
+2020-12-29 22:19:31 -0300	https://github.com/brocolis/cmath_constants
+2021-04-25 22:07:05 -0300	https://github.com/brocolis/dynload-base
+2021-04-25 22:46:52 -0300	https://github.com/brocolis/dynload-julia
+2021-04-27 09:43:12 -0300	https://github.com/brocolis/dynload-pcre
+2021-04-07 22:42:23 -0300	https://github.com/brocolis/fftpack
+2021-02-03 06:08:38 -0300	https://github.com/brocolis/fortran-pcre
+2020-12-30 08:44:26 -0300	https://github.com/brocolis/fpm-search
+2020-12-13 16:41:21 -0300	https://github.com/brocolis/ode
+2021-05-26 09:54:00 -0300	https://github.com/brocolis/os-id
+2021-04-05 21:40:53 -0300	https://github.com/brocolis/quadpack
+2021-04-02 02:02:28 -0300	https://github.com/certik/minpack
+2020-06-17 21:20:01 +0900	https://github.com/cure-honey/uzura1_fpm
+2021-02-24 20:31:24 +0100	https://github.com/dftd4/dftd4
+2021-06-30 17:26:41 +0930	https://github.com/exepulveda/gslib2.0
+2021-05-29 01:31:53 +0900	https://github.com/f66blog/xplot
+2021-07-16 10:58:13 +0800	https://github.com/fortran-fans/fftpack4.0-public-domain
+2021-07-16 10:53:33 +0800	https://github.com/fortran-fans/fftpack5.1-GPL
+2021-07-16 10:44:14 +0800	https://github.com/fortran-fans/fftpack5.1-NACR
+2021-05-11 22:33:05 +0800	https://github.com/fortran-fans/forlab
+2021-06-18 10:25:28 +0800	https://github.com/fortran-fans/fortsa
+2020-12-23 08:35:45 -0500	https://github.com/fortran-gaming/blocktran
+2021-07-14 22:20:05 -0400	https://github.com/fortran-gaming/mastermind
+2021-07-27 20:35:47 +0800	https://github.com/fortran-lang/fftpack
+2021-02-25 20:11:06 -0800	https://github.com/fortran-lang/fortran-forum-article-template
+2021-03-31 16:13:58 +0200	https://github.com/fortran-lang/fpm
+2021-03-14 23:26:18 +0100	https://github.com/fortran-lang/test-drive
+2020-08-02 14:57:21 -0400	https://github.com/geospace-code/h5fortran
+2020-12-23 08:37:26 -0500	https://github.com/geospace-code/maptran3d
+2020-11-09 20:31:17 +0100	https://github.com/grimme-lab/gcp
+2020-10-04 15:17:15 +0200	https://github.com/grimme-lab/mctc-lib
+2020-11-10 11:11:41 +0100	https://github.com/grimme-lab/mstore
+2021-02-20 01:42:13 +0100	https://github.com/grimme-lab/multicharge
+2021-08-11 12:56:24 +0200	https://github.com/grimme-lab/nlopt-f
+2021-05-18 08:14:05 +0200	https://github.com/grimme-lab/numsa
+2020-10-07 13:44:38 +0200	https://github.com/grimme-lab/rmsd-tool
+2021-06-23 03:18:17 -0800	https://github.com/han190/PE-Fortran
+2020-12-16 09:47:54 +0100	https://github.com/hfp/libxsmm
+2020-12-20 19:28:41 +0100	https://github.com/interkosmos/fortran-curl
+2021-02-19 14:00:37 +0100	https://github.com/interkosmos/fortran-sdl2
+2021-07-22 23:30:22 +0200	https://github.com/interkosmos/fortran-sqlite3
+2021-07-20 14:50:01 +0200	https://github.com/interkosmos/fortran-unix
+2020-12-16 09:47:54 +0100	https://github.com/itamarlouco/trabalhoIA
+2021-02-19 01:54:58 +0100	https://github.com/ivan-pi/LINPACK
+2021-02-18 16:11:52 +0100	https://github.com/ivan-pi/SMMP
+2020-12-22 18:43:04 +0100	https://github.com/ivan-pi/fortran-flann
+2021-04-03 15:29:27 +0200	https://github.com/ivan-pi/hs-sort
+2021-08-10 17:26:35 +0200	https://github.com/ivan-pi/stiff3
+2021-02-17 19:31:11 +0100	https://github.com/ivan-pi/y12m
+2021-09-10 08:21:01 -0500	https://github.com/jacobwilliams/NumDiff
+2021-08-29 12:19:19 -0500	https://github.com/jacobwilliams/PCHIP
+2021-08-26 14:22:56 -0500	https://github.com/jacobwilliams/bspline-fortran
+2021-03-20 12:51:11 -0500	https://github.com/jacobwilliams/finterp
+2021-07-15 10:43:51 +0800	https://github.com/jacobwilliams/fortran-csv-module
+2021-05-31 15:36:14 -0500	https://github.com/jacobwilliams/json-fortran
+2021-08-29 19:31:36 -0500	https://github.com/jacobwilliams/pikaia
+2021-09-09 22:53:45 -0500	https://github.com/jacobwilliams/pyplot-fortran
+2021-08-30 08:26:43 -0500	https://github.com/jacobwilliams/roots-fortran
+2021-06-03 23:28:10 +0100	https://github.com/jacobwilliams/slsqp
+2021-07-06 09:31:01 +0200	https://github.com/jbdv-no/to_f90
+2021-05-31 13:49:15 +0800	https://github.com/jinleiphys/fortran-article
+2021-06-07 19:45:17 -0700	https://github.com/jphaupt/cuda_eg
+2021-05-07 15:59:19 +0800	https://github.com/keurfonluu/FFTPack
+2020-12-15 14:23:38 +0000	https://github.com/kookma/ogpf
+2021-06-04 20:33:18 +0200	https://github.com/marvinfriede/hartree-fock
+2020-10-31 21:32:19 -0400	https://github.com/milancurcic/fortran202x_split
+2021-06-15 10:42:17 -0400	https://github.com/modern-fortran/neural-fortran
+2021-08-22 09:19:02 -0700	https://github.com/nedlrichards/fpm_test
+2021-08-29 19:21:58 -0500	https://github.com/princemahajan/FLINT
+2021-05-21 14:47:17 -0400	https://github.com/renatomatz/cafut
+2021-05-26 21:50:35 -0400	https://github.com/renatomatz/otf
+2021-02-11 20:24:00 -0800	https://github.com/sourceryinstitute/FEATS
+2021-08-21 12:09:14 -0700	https://github.com/sourceryinstitute/assert
+2021-05-14 13:45:05 -0700	https://github.com/sourceryinstitute/miniFAVOR
+2020-11-27 15:21:43 -0800	https://github.com/sourceryinstitute/sourcery
+2020-08-28 10:18:26 +0200	https://github.com/toml-f/toml-f
+2020-07-07 22:52:54 -0400	https://github.com/urbanjost/M_CLI
+2020-08-03 01:52:12 -0400	https://github.com/urbanjost/M_CLI2
+2021-04-16 17:48:39 -0400	https://github.com/urbanjost/M_LA
+2021-04-03 19:47:15 -0400	https://github.com/urbanjost/M_OS
+2021-03-28 18:22:26 -0400	https://github.com/urbanjost/M_args
+2021-07-24 14:35:42 -0400	https://github.com/urbanjost/M_attr
+2021-08-15 18:18:40 -0400	https://github.com/urbanjost/M_blas
+2021-06-25 23:40:53 -0400	https://github.com/urbanjost/M_calcomp
+2020-07-07 10:10:49 -0400	https://github.com/urbanjost/M_calculator
+2020-07-07 23:38:36 -0400	https://github.com/urbanjost/M_color
+2020-07-18 14:56:02 -0400	https://github.com/urbanjost/M_draw
+2020-09-12 18:09:48 -0400	https://github.com/urbanjost/M_escape
+2021-03-28 22:07:23 -0400	https://github.com/urbanjost/M_factor
+2020-07-07 21:39:10 -0400	https://github.com/urbanjost/M_history
+2020-10-03 23:55:08 -0400	https://github.com/urbanjost/M_intrinsics
+2020-07-07 22:42:54 -0400	https://github.com/urbanjost/M_io
+2021-03-28 21:19:24 -0400	https://github.com/urbanjost/M_kracken
+2020-07-15 00:00:24 -0400	https://github.com/urbanjost/M_kracken95
+2021-01-12 22:05:08 -0500	https://github.com/urbanjost/M_list
+2020-07-07 23:46:07 -0400	https://github.com/urbanjost/M_match
+2021-04-16 17:48:39 -0400	https://github.com/urbanjost/M_matrix
+2020-07-05 23:58:21 -0400	https://github.com/urbanjost/M_msg
+2021-03-18 23:11:28 -0400	https://github.com/urbanjost/M_ncurses
+2020-11-07 20:47:50 -0500	https://github.com/urbanjost/M_path
+2020-08-22 17:17:43 -0400	https://github.com/urbanjost/M_pixel
+2020-07-07 02:22:50 -0400	https://github.com/urbanjost/M_process
+2021-01-15 23:20:25 -0500	https://github.com/urbanjost/M_readline
+2021-03-12 20:37:48 -0500	https://github.com/urbanjost/M_slices
+2021-01-06 21:16:11 -0500	https://github.com/urbanjost/M_sort
+2020-07-12 02:57:44 -0400	https://github.com/urbanjost/M_strings
+2020-07-16 18:23:49 -0400	https://github.com/urbanjost/M_system
+2020-07-07 21:34:28 -0400	https://github.com/urbanjost/M_time
+2021-02-10 07:23:50 -0500	https://github.com/urbanjost/M_uuid
+2021-09-12 17:57:49 -0400	https://github.com/urbanjost/easy
+2021-03-18 18:57:22 -0400	https://github.com/urbanjost/fpm-man
+2021-03-16 19:13:26 -0400	https://github.com/urbanjost/general-purpose-fortran
+2021-06-08 23:16:48 -0400	https://github.com/urbanjost/prep
+2021-09-15 00:09:54 -0400	https://github.com/urbanjost/testit
+2021-03-02 21:03:30 +0100	https://github.com/vmagnin/formidi
+2021-02-19 22:10:40 +0100	https://github.com/vmagnin/forsynth
+2021-03-13 18:05:10 +0100	https://github.com/vmagnin/fundamental_constants
+2021-06-03 15:27:19 +0200	https://github.com/vmagnin/gtkzero_fpm
+2020-04-26 14:57:00 -0400	https://github.com/wavebitscientific/datetime-fortran
+2020-10-05 15:05:30 +0200	https://github.com/wavebitscientific/functional-fortran
+2021-03-19 11:41:31 -0700	https://github.com/willdickson/fqs-aero
+2021-03-22 16:58:27 -0700	https://github.com/willdickson/h5fortran-wbd-experimental
+2021-09-11 12:00:56 +0800	https://github.com/zoziha/SPH
+2021-05-25 13:23:34 +0800	https://github.com/zoziha/fftpack-4
+2021-05-07 15:59:19 +0800	https://github.com/zoziha/fftpack-5
+2021-06-18 10:25:28 +0800	https://github.com/zoziha/fortsa
+2021-09-08 15:56:21 +0800	https://github.com/zoziha/mini-test
+2021-02-08 13:30:43 -0600	https://gitlab.com/everythingfunctional/binary_tree
+2020-07-30 17:55:52 -0700	https://gitlab.com/everythingfunctional/cmdff
+2020-06-04 11:26:05 -0700	https://gitlab.com/everythingfunctional/erloff
+2020-05-23 10:27:30 -0700	https://gitlab.com/everythingfunctional/hello_fpm
+2020-05-23 09:57:49 -0700	https://gitlab.com/everythingfunctional/helloff
+2021-02-02 12:27:19 -0600	https://gitlab.com/everythingfunctional/heterogeneous_list
+2020-05-30 13:25:17 -0700	https://gitlab.com/everythingfunctional/iso_varying_string
+2020-06-04 14:28:19 -0700	https://gitlab.com/everythingfunctional/jsonff
+2021-01-13 14:38:20 -0600	https://gitlab.com/everythingfunctional/make_vegetable_driver
+2020-06-05 08:38:31 -0700	https://gitlab.com/everythingfunctional/matterff
+2020-06-04 12:15:59 -0700	https://gitlab.com/everythingfunctional/parff
+2020-06-04 19:26:12 -0700	https://gitlab.com/everythingfunctional/quaff
+2020-06-10 19:54:15 -0700	https://gitlab.com/everythingfunctional/quaff_gnuplot_units
+2020-06-10 15:30:48 -0700	https://gitlab.com/everythingfunctional/quaff_latex_units
+2021-07-12 14:30:27 -0500	https://gitlab.com/everythingfunctional/recursive_data_structure_example
+2020-06-14 18:51:50 -0700	https://gitlab.com/everythingfunctional/sqliteff
+2021-02-09 12:50:11 -0600	https://gitlab.com/everythingfunctional/stack_example
+2020-05-30 13:43:54 -0700	https://gitlab.com/everythingfunctional/strff
+2020-05-30 15:33:55 -0700	https://gitlab.com/everythingfunctional/vegetables
