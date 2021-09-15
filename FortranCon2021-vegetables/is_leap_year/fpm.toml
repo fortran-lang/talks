@@ -1,0 +1,10 @@
+name = "is_leap_year"
+version = "0.1.0"
+license = "MIT"
+author = "Brad Richardson"
+maintainer = "everythingfunctional@protonmail.com"
+copyright = "Copyright 2021, Brad Richardson"
+
+[dev-dependencies]
+vegetables = { git = "https://gitlab.com/everythingfunctional/vegetables.git", tag = "v7.2.1" }
+strff = { git = "https://gitlab.com/everythingfunctional/strff.git", tag = "v2.1.0" }
