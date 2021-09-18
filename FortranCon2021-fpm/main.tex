@@ -58,11 +58,124 @@ John~Urban}
    \begin{columns}
       \begin{column}{.5\textwidth}
          \includegraphics[width=\textwidth]{Figures/fpm-projects.pdf}
+         \vskip-2ex
+
+         \scriptsize
+         Data collected from GitHub and GitLab on 15th Sep, 2021
       \end{column}
-      \begin{column}{.5\textwidth}
+      \hskip-1em
+      \begin{column}{.55\textwidth}
          \begin{itemize}
-            \item today \alert{173} projects are using fpm
+            \item today \alert{173} open source projects are using fpm
             \item ca. 160 unique developers have contributed to those projects
+         \end{itemize}
+      \end{column}
+   \end{columns}
+\end{frame}
+
+\section{Implementing fpm in Fortran}
+
+\begin{frame}{Language choice for implementing a package manager}
+   \begin{columns}
+      \hskip.5em
+      \begin{column}{.46\textwidth}
+         \begin{itemize}
+            \item fast without much overhead
+            \item self-contained and simple to setup
+            \item easily accessible for users/contributors
+         \end{itemize}
+      \end{column}
+      \begin{column}{.49\textwidth}
+         \begin{itemize}
+            \item[\alert{▶}] use compiled language
+            \item[\alert{▶}] small runtime library or static binaries
+            \item[\alert{▶}] mostly Fortran developers
+         \end{itemize}
+      \end{column}
+   \end{columns}
+   \medskip
+
+   \begin{center}
+      \includegraphics[height=.5in]{Figures/logo-c}
+      \quad
+      \includegraphics[height=.5in]{Figures/logo-cpp}
+      \quad
+      \includegraphics[height=.5in]{Figures/logo-fortran}
+   \end{center}
+   \medskip
+
+   \begin{itemize}
+      \item \alert{Fortran} is the most well-known language in our community
+      \item compilers can easily produce \alert{static binaries} for distribution
+      \item we can identify short-comings in Fortran while implementing fpm
+      \item direct feedback for useful features in \alert{stdlib}
+   \end{itemize}
+\end{frame}
+
+\begin{frame}{Bootstrapping fpm}
+   \begin{itemize}
+      \item fpm is built with itself
+      \item single file version used for creating initial fpm bootstrap binary
+      \item minimal dependencies, requires only a Fortran compiler to build
+      \item bootstrap binary is used to build fpm: Fortran, C compiler and git are required
+   \end{itemize}
+   \vfill
+
+   \centering
+   \includegraphics[width=.9\textwidth]{Figures/bootstrapping.pdf}
+\end{frame}
+
+\section{Feature overview}
+
+\begin{frame}{Feature overview}
+   \begin{columns}
+      \hskip.1\textwidth
+      \begin{column}{.6\textwidth}
+         \begin{itemize}
+            \item handles (sub)module interdependencies
+            \item automatically finds executables and tests
+         \end{itemize}
+      \end{column}
+   \end{columns}
+   \vskip2ex
+
+   \begin{columns}
+      \begin{column}{.4\textwidth}
+         \begin{itemize}
+            \item can run excutables and examples
+            \item wildcard globbing for selection
+         \end{itemize}
+         \vskip5ex
+
+         \begin{itemize}
+            \item finds and runs test executables
+            \item allows running tests in debugger
+         \end{itemize}
+      \end{column}
+      \begin{column}{.3\textwidth}
+         \includegraphics[width=\textwidth]{Figures/features.pdf}
+      \end{column}
+      \begin{column}{.4\textwidth}
+         \begin{itemize}
+            \item automatically installs project
+            \item user prefix used by default
+         \end{itemize}
+         \vskip5ex
+
+         \begin{itemize}
+            \item updates all dependencies
+            \item basic caching and locking
+         \end{itemize}
+      \end{column}
+   \end{columns}
+   \vskip2ex
+
+   \begin{columns}
+      \hskip.1\textwidth
+      \begin{column}{.6\textwidth}
+         \begin{itemize}
+            \item create new projects with fpm layout
+            \item backfilling to update existing projects
          \end{itemize}
       \end{column}
    \end{columns}
@@ -71,6 +184,12 @@ John~Urban}
 \section{Summary}
 
 \begin{frame}{Summary}
+\end{frame}
+
+\begin{frame}{Near-future roadmap}
+   \begin{itemize}
+      \item compiler profile support
+   \end{itemize}
 \end{frame}
 
 \begin{frame}{Get fpm now}

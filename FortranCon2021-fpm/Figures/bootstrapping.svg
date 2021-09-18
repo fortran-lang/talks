@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="206.02435mm"
+   height="49.995705mm"
+   viewBox="0 0 206.02435 49.995705"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="bootstrapping.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:zoom="2.1469891"
+     inkscape:cx="574.52551"
+     inkscape:cy="42.617822"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11154">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop11150" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop11152" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11154"
+       id="linearGradient11156"
+       x1="0.36928228"
+       y1="65.354622"
+       x2="206.39363"
+       y2="65.354622"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.36928229,-40.356768)">
+    <path
+       id="path9805"
+       style="fill:url(#linearGradient11156);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 206.24457,40.356768 105.11534,52.532769 a 14.999999,14.999999 0 0 1 7.22075,12.824023 14.999999,14.999999 0 0 1 -6.98149,12.664861 l 100.52927,12.33103 0.50953,-49.995915 z m -33.76693,4.999695 a 20,20 0 0 1 20.00033,20.000329 20,20 0 0 1 -20.00033,19.999812 20,20 0 0 1 -19.99981,-19.999812 20,20 0 0 1 19.99981,-20.000329 z m -85.727068,9.387541 -38.059174,4.582149 a 10,10 0 0 1 2.024166,6.030639 10,10 0 0 1 -1.816428,5.739702 l 37.588919,4.61057 a 14.999999,14.999999 0 0 1 -4.151683,-10.350272 14.999999,14.999999 0 0 1 4.4142,-10.612788 z M 31.543091,61.390626 0.36928229,65.143886 31.38496,68.948304 a 10,10 0 0 1 -0.669727,-3.591512 10,10 0 0 1 0.827858,-3.966166 z" />
+    <circle
+       style="fill:#a34e9c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path868"
+       cx="40.715324"
+       cy="65.35672"
+       r="9" />
+    <circle
+       style="fill:#9953ad;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle972"
+       cx="97.336159"
+       cy="65.35672"
+       r="13.5" />
+    <circle
+       style="fill:#734f96;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle974"
+       cx="172.47786"
+       cy="65.35672"
+       r="18" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:4.05694px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="33.548748"
+       y="66.421669"
+       id="text3442"><tspan
+         sodipodi:role="line"
+         id="tspan3440"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="33.548748"
+         y="66.421669">fpm.F90</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:4.05694px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="88.323677"
+       y="66.421669"
+       id="text4978"><tspan
+         sodipodi:role="line"
+         id="tspan4976"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="88.323677"
+         y="66.421669">./fpm-tmp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:8.46667px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="165.32777"
+       y="67.579224"
+       id="text6734"><tspan
+         sodipodi:role="line"
+         id="tspan6732"
+         style="font-size:8.46667px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="165.32777"
+         y="67.579224">fpm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:4.05694px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="55.244591"
+       y="66.421669"
+       id="text11268"><tspan
+         sodipodi:role="line"
+         id="tspan11266"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="55.244591"
+         y="66.421669">$FC fpm.F90</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:4.05694px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="117.15711"
+       y="66.421669"
+       id="text13618"><tspan
+         sodipodi:role="line"
+         id="tspan13616"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="117.15711"
+         y="66.421669">./fpm-tmp install</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:4.05694px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="18.202919"
+       y="66.421669"
+       id="text46730"><tspan
+         sodipodi:role="line"
+         id="tspan46728"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="18.202919"
+         y="66.421669">curl</tspan></text>
+  </g>
+</svg>
