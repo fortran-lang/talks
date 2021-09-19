@@ -26,10 +26,10 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:zoom="1.2795517"
-     inkscape:cx="327.8492"
+     inkscape:cx="309.87415"
      inkscape:cy="191.86407"
-     inkscape:window-width="1680"
-     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -181,7 +181,7 @@
          y="198.92926"
          id="tspan1542">   └─ ...</tspan></text>
     <rect
-       style="fill:#f4e3d7;fill-opacity:1;stroke:none;stroke-width:0.896074;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.896074;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect106234"
        width="64.936325"
        height="63.233902"
@@ -189,7 +189,7 @@
        y="104.37383"
        rx="4.3284006" />
     <path
-       style="fill:none;stroke:#f4e3d7;stroke-width:0.359593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       style="fill:none;stroke:#ffffff;stroke-width:0.359593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="M 142.20348,114.49351 H 103.40526"
        id="path106445" />
     <text
