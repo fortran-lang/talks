@@ -51,8 +51,24 @@ John~Urban}
 \section{Motivation}
 
 \begin{frame}{Motivation}
+   \begin{itemize}
+      \item user experience of general-purpose build systems for Fortran is suboptimal
+         \begin{itemize}
+            \item[--] manual makefiles are seldom cross platform compatible
+            \item[--] autoconf is not working on native Windows
+            \item[--] learning curve for CMake is incredible steep
+            \item[--] meson does not install module files automatically
+         \end{itemize}
+      \item writing of build files and adjustment for Fortran is time-intensive
+      \item difficult and tedious to reuse Fortran source code
+      \item system-wide installation dangerous for multiple Fortran compilers
+         (no ABI compatibility)
+      \item impossible to depend on project without redistributing it
+         \\[2ex]
+      \item[\alert{▶}] create a \alert{Fortran-specific} build system to fix this
+      \item[\alert{▶}] make it easy to create \alert{reusable} Fortran libraries
+   \end{itemize}
 \end{frame}
-
 
 \begin{frame}{Adoption of fpm}
    \begin{columns}
@@ -67,11 +83,14 @@ John~Urban}
       \begin{column}{.55\textwidth}
          \begin{itemize}
             \item today \alert{173} open source projects are using fpm
-            \item ca. 160 unique developers have contributed to those projects
+            \item ca. \alert{160} unique developers have contributed\\ to those projects
+            \item \alert{52} contributors at the fpm project
+            \item code contributions from \alert{18} developers to fpm
          \end{itemize}
       \end{column}
    \end{columns}
 \end{frame}
+
 
 \section{Implementing fpm in Fortran}
 
@@ -125,6 +144,7 @@ John~Urban}
    \includegraphics[width=.9\textwidth]{Figures/bootstrapping.pdf}
 \end{frame}
 
+
 \section{Feature overview}
 
 \begin{frame}{Feature overview}
@@ -168,7 +188,7 @@ John~Urban}
          \end{itemize}
       \end{column}
    \end{columns}
-   \vskip2ex
+   \vskip1ex
 
    \begin{columns}
       \hskip.1\textwidth
@@ -180,6 +200,36 @@ John~Urban}
       \end{column}
    \end{columns}
 \end{frame}
+
+\begin{frame}{Layout of an fpm project}
+   \begin{columns}
+      \begin{column}{.6\textwidth}
+         \includegraphics[width=\textwidth]{Figures/layout.pdf}
+      \end{column}
+      \hskip-2em
+      \begin{column}{.45\textwidth}
+         \begin{itemize}
+            \item package manifest in \alert{TOML}
+            \item limited complexity of build file
+            \item mainly meta data of project\\
+               (license, author, keywords, \ldots)
+               \\[2ex]
+            \item default layout requires only \alert{name}\\
+               (\textcolor{blue}{src}, \textcolor{blue}{app}, \textcolor{blue}{example}, and \textcolor{blue}{test})
+            \item \alert{source-dir} for customizing layout
+               \\[2ex]
+            \item executable names from \alert{program} unit
+               \\[2ex]
+            \item system libraries can be linked
+               \\[2ex]
+         \end{itemize}
+      \end{column}
+   \end{columns}
+\end{frame}
+
+\begin{frame}{First class dependencies}
+\end{frame}
+
 
 \section{Summary}
 
