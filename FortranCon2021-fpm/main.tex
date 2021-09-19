@@ -228,17 +228,31 @@ John~Urban}
 \end{frame}
 
 \begin{frame}{First class dependencies}
+   \begin{itemize}
+      \item dependencies are currently specified by referencing another project
+         (\textit{e.\,g.} via git URL)
+   \end{itemize}
+
+   \begin{center}
+      \includegraphics[width=.85\textwidth]{Figures/dependencies.pdf}
+   \end{center}
+
+   \begin{itemize}
+      \item different scopes available beside full dependencies
+      \item can depend on projects only for testing or limit dependencies to single executable
+   \end{itemize}
 \end{frame}
 
 
 \section{Summary}
 
-\begin{frame}{Summary}
-\end{frame}
-
 \begin{frame}{Near-future roadmap}
    \begin{itemize}
       \item compiler profile support
+      \item custom preprocessor step (especially for fypp projects, \textit{i.\,e.} stdlib)
+      \item support for a package registry in fpm
+      \item optional dependencines
+      \item build script support for complex packages
    \end{itemize}
 \end{frame}
 
