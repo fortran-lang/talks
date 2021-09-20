@@ -221,7 +221,7 @@ end
     \end{itemize}
   \item Install each separately or use conda package manager
   \item Exports both CMake package files \& pkg-config files
-  \item Support for fpm-based workflow is in progress
+  \item New support for fpm-based workflow
   \end{itemize}
 
   \note{
@@ -231,8 +231,35 @@ end
     These are individually not hard to install on most systems, but one might be worried about having conflicting versions of Fortran compilers or CMake on one system.
     So to address that concern and also to just serve as a very simple way to get started, there's now a conda package that will automatically install the prerequisites for stdlib.
     So then once you get the stdlib source code from Github, you can build stdlib and run its test suite with either make or CMake.
-    Then when you isntall stdlib, you get not only a static or shared library but also a pkg-config file and a CMake package file, which makes it very simply to use stdlib in your own projects.
-    The ideal situation of course is to distribute stdlib as an fpm package, and while that's still a work in progres, there's been good progress on the fpm side of things.
+    Then when you install stdlib, you get not only a static or shared library but also a pkg-config file and a CMake package file, which makes it very simply to use stdlib in your own projects.
+    But the ideal is to distrubute stdlib as an fpm package, which is newly supported!
+  }
+\end{frame}
+
+
+\begin{frame}[fragile]
+  \frametitle{It is now trivial for fpm packages to depend on stdlib}
+
+  \begin{block}{fpm.toml}
+    \small
+\begin{verbatim}
+...
+[dependencies]
+stdlib.git = "https://github.com/fortran-lang/stdlib"
+stdlib.branch = "stdlib-fpm" 
+...
+\end{verbatim}
+  \end{block}
+
+  \begin{center}
+    It just works!
+  \end{center}
+
+  \note{
+    For a long time, stdlib's preprocessing needs were difficult to accomodate with fpm.
+    Now we maintain a branch of stdlib that just contains the pre-processed Fortran source, exacly the way fpm wants it.
+    Not only is it possible to build standalone stdlib using fpm, but it's trivial to include it as a dependency.
+    With just a few lines in your fpm.toml, all of stdlib is available and ``just works''!
   }
 \end{frame}
 
