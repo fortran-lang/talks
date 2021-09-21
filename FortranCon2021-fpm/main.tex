@@ -142,6 +142,28 @@ John~Urban}
    \end{itemize}
 \end{frame}
 
+\begin{frame}{Building blocks for Fortran implementation}
+   \begin{columns}
+      \hskip.5em
+      \begin{column}{.40\textwidth}
+         \begin{enumerate}
+            \item command-line interface builder
+            \item TOML parser library
+            \item Fortran source scanning
+            \item multiprocessing and scheduling
+         \end{enumerate}
+      \end{column}
+      \begin{column}{.55\textwidth}
+         \begin{itemize}
+            \item[\alert{▶}] \alert{M\_CLI2} package
+            \item[\alert{▶}] \alert{toml-f} package
+            \item[\alert{▶}] implemented in \alert{fpm}
+            \item[\alert{▶}] \alert{OpenMP} directives
+         \end{itemize}
+      \end{column}
+   \end{columns}
+\end{frame}
+
 \begin{frame}{Bootstrapping fpm}
    \begin{itemize}
       \item fpm is built with itself
@@ -158,7 +180,7 @@ John~Urban}
 
 \section{Feature overview}
 
-\begin{frame}{Feature overview}
+\begin{frame}{Command-line features}
    \begin{columns}
       \hskip.1\textwidth
       \begin{column}{.6\textwidth}
@@ -254,6 +276,36 @@ John~Urban}
    \end{itemize}
 \end{frame}
 
+\begin{frame}{Extensions of fpm with plugin}
+   \begin{itemize}
+      \item package manifest provides space for third-party projects
+      \item fpm is available as fpm package and can be used as dependency
+      \item plugins are used automatically from the command-line
+      \item useful for staging new features before integration in fpm
+   \end{itemize}
+   \vfill
+
+   \begin{columns}
+      \begin{column}{.45\textwidth}
+         Searching for fpm packages: \alert{fpm-search}
+         \begin{itemize}
+            \item available from \textit{fpm search} command
+            \item downloads the fpm registry
+            \item search package names, descriptions
+         \end{itemize}
+      \end{column}
+      \hskip1em
+      \begin{column}{.45\textwidth}
+         Documentation of intrinsics: \alert{fpm-man}
+         \begin{itemize}
+            \item available from \textit{fpm man} command
+            \item access to documentation of intrinsics
+            \item cross-platform, no man required
+         \end{itemize}
+      \end{column}
+   \end{columns}
+\end{frame}
+
 
 \section{Summary}
 
@@ -269,7 +321,7 @@ John~Urban}
 
 \begin{frame}{Get fpm now}
    \begin{center}
-      \includegraphics[width=.8\textwidth]{Figures/get-fpm.pdf}
+      \includegraphics[width=.9\textwidth]{Figures/get-fpm.pdf}
    \end{center}
 \end{frame}
 

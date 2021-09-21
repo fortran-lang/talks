@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="270.70514mm"
+   width="296.27121mm"
    height="128.49991mm"
-   viewBox="0 0 270.70514 128.49991"
+   viewBox="0 0 296.27121 128.49991"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
@@ -27,8 +27,8 @@
      showguides="false"
      inkscape:lockguides="true"
      inkscape:zoom="1.0547891"
-     inkscape:cx="479.71675"
-     inkscape:cy="207.15042"
+     inkscape:cx="568.83409"
+     inkscape:cy="210.94264"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -70,11 +70,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(31.594723,-25.177717)">
+     transform="translate(43.513542,-25.177717)">
     <rect
-       style="fill:#e6e6e6;stroke:none;stroke-width:0.322237;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.342426;stroke-linecap:round;stroke-linejoin:round"
        id="rect38029"
-       width="105.60517"
+       width="119.25243"
        height="19.360397"
        x="133.50523"
        y="85.104744"
@@ -88,11 +88,11 @@
        x="110.1263"
        y="69.547363" />
     <rect
-       style="fill:#e6e6e6;stroke:none;stroke-width:0.322237;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.339935;stroke-linecap:round;stroke-linejoin:round"
        id="rect37697"
-       width="105.60517"
+       width="117.52399"
        height="19.360397"
-       x="-31.594723"
+       x="-43.513542"
        y="33.775581"
        ry="3.6513534" />
     <g
@@ -165,9 +165,9 @@
       </g>
     </g>
     <rect
-       style="fill:#e6e6e6;stroke:none;stroke-width:0.322237;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.342426;stroke-linecap:round;stroke-linejoin:round"
        id="rect38129"
-       width="105.60517"
+       width="119.25243"
        height="19.360397"
        x="133.50523"
        y="33.775581"
@@ -181,11 +181,11 @@
        x="111.4621"
        y="25.177717" />
     <rect
-       style="fill:#e6e6e6;stroke:none;stroke-width:0.322237;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.339935;stroke-linecap:round;stroke-linejoin:round"
        id="rect38027"
-       width="105.605"
+       width="117.5238"
        height="19.360397"
-       x="-31.594723"
+       x="-43.513542"
        y="85.104744"
        ry="3.6513534" />
     <g
@@ -303,86 +303,86 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-       x="-27.946798"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+       x="-38.530132"
        y="41.802578"
        id="text5264"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-         x="-27.946798"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         x="-38.530132"
          y="41.802578"
          id="tspan5266">❯ conda create -n fpm fpm</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-         x="-27.946798"
-         y="47.135582"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         x="-38.530132"
+         y="48.024422"
          id="tspan5268">❯ conda activate fpm</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-       x="-27.946812"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+       x="-38.530148"
        y="93.131737"
        id="text7930"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-         x="-27.946812"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         x="-38.530148"
          y="93.131737"
          id="tspan7928">❯ spack install fpm +openmp</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-         x="-27.946812"
-         y="98.464737"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         x="-38.530148"
+         y="99.353584"
          id="tspan7959">❯ spack load fpm +openmp</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
        x="151.4407"
        y="93.131744"
        id="text8573"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
          x="151.4407"
          y="93.131744"
          id="tspan8569">❯ brew tap awvwgk/fpm</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
          x="151.4407"
-         y="98.464745"
+         y="99.353584"
          id="tspan8571">❯ brew install fpm</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
        x="151.44073"
        y="44.44841"
        id="text11867"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
          x="151.44073"
          y="44.44841"
          id="tspan11865">❯ pacman -S mingw-w64-x86_64-fpm</tspan></text>
     <rect
-       style="fill:#e6e6e6;stroke:none;stroke-width:0.367401;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.391496;stroke-linecap:round;stroke-linejoin:round"
        id="rect881"
-       width="137.28253"
+       width="155.87997"
        height="19.360397"
-       x="38.25526"
+       x="25.555258"
        y="134.31723"
        ry="3.6513534" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-       x="45.607368"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+       x="32.907364"
        y="142.34422"
        id="text887"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-         x="45.607368"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         x="32.907364"
          y="142.34422"
          id="tspan885">❯ git clone https://github.com/fortran-lang/fpm</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
-         x="45.607368"
-         y="147.67723"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';stroke-width:0.264583"
+         x="32.907364"
+         y="148.56607"
          id="tspan913">❯ cd fpm &amp;&amp; ./install.sh</tspan></text>
   </g>
   <style
