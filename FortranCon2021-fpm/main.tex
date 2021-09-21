@@ -51,19 +51,16 @@ John~Urban}
 \section{Motivation}
 
 \begin{frame}{Outline}
-   \begin{columns}
-      \begin{column}{.4\textwidth}\bfseries
-         \tableofcontents
-      \end{column}
-      \begin{column}{.4\textwidth}
-         % maybe a nice overview graphic here?
-      \end{column}
-   \end{columns}
+
+   \vfill
+   \tableofcontents
+
+   \vfill
 \end{frame}
 
 \begin{frame}{Motivation}
    \begin{itemize}
-      \item user experience of general-purpose build systems for Fortran is suboptimal
+      \item building and distributing Fortran software is difficult
          \begin{itemize}
             \item[--] manual makefiles are seldom cross platform compatible
             \item[--] autoconf is not working on native Windows
@@ -76,7 +73,7 @@ John~Urban}
          (no ABI compatibility)
       \item impossible to depend on a project without redistributing it
          \\[2ex]
-      \item[\alert{▶}] create a \alert{Fortran-specific} build system to fix this
+      \item[\alert{▶}] create a \alert{Fortran-specific} build system and package manager to fix this
       \item[\alert{▶}] make it easy to create \alert{reusable} Fortran libraries
    \end{itemize}
 \end{frame}
@@ -127,9 +124,13 @@ John~Urban}
    \medskip
 
    \begin{center}
-      \includegraphics[height=.5in]{Figures/logo-c}
+      \includegraphics[height=.5in]{Figures/logo-python}
       \quad
       \includegraphics[height=.5in]{Figures/logo-cpp}
+      \quad
+      \includegraphics[height=.5in]{Figures/logo-rust}
+      \quad
+      \includegraphics[height=.45in]{Figures/logo-haskell}
       \quad
       \includegraphics[height=.5in]{Figures/logo-fortran}
    \end{center}
@@ -168,7 +169,7 @@ John~Urban}
 \begin{frame}{Bootstrapping fpm}
    \begin{itemize}
       \item fpm is built with itself
-      \item single file version used for creating initial fpm bootstrap binary
+      \item single-file version used for creating initial fpm bootstrap binary
       \item minimal dependencies, requires only a Fortran compiler to build
       \item bootstrap binary is used to build fpm: Fortran, C compiler and git are required
    \end{itemize}
@@ -196,7 +197,7 @@ John~Urban}
    \begin{columns}
       \begin{column}{.4\textwidth}
          \begin{itemize}
-            \item can run executables and examples
+            \item runs executables and examples
             \item wildcard globbing for selection
          \end{itemize}
          \vskip5ex
@@ -261,7 +262,7 @@ John~Urban}
    \end{columns}
 \end{frame}
 
-\begin{frame}{First class dependencies}
+\begin{frame}{First-class dependencies}
    \begin{itemize}
       \item dependencies are currently specified by referencing another project
          (\textit{e.\,g.} via git URL)
@@ -277,7 +278,7 @@ John~Urban}
    \end{itemize}
 \end{frame}
 
-\begin{frame}{Extensions of fpm with plugin}
+\begin{frame}{Extending fpm with plugins}
    \begin{itemize}
       \item package manifest provides space for third-party projects
       \item fpm is available as fpm package and can be used as dependency
@@ -308,7 +309,7 @@ John~Urban}
 \end{frame}
 
 
-\section{Summary}
+\section{Summary and outlook}
 
 \begin{frame}{Near-future roadmap}
    \begin{itemize}
