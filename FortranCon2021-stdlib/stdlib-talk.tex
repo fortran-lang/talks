@@ -203,7 +203,7 @@ end
     Not only has the number of modules doubles but so has the number of people who've committed changes to stdlib.
     Included in that are two Google Summer of Code students Aman Godara and Chetan Karwa, who we will hear from shortly.
     What that figure doesn't include is contributions made in the form of Issues and reviews of Pull Requests.
-    It's really great to see over 100 new Issues opened in the past year, since this not only includes bug reports but also discussion of workflow improvments and proposals for new features.
+    It's really great to see over 100 new Issues opened in the past year, since this not only includes bug reports but also discussion of workflow improvements and proposals for new features.
     And looking at the timeline of commits since last year's FortranCon, we see a nice sustained development with big rushes of new development at the end of last summer and throughout this summer.
   }
 \end{frame}
@@ -225,7 +225,7 @@ end
   \end{itemize}
 
   \note{
-    Besides implementing and discussing new features, the other way in which stdlib has improve a lot this past year is in infrastructure.
+    Besides implementing and discussing new features, the other way in which stdlib has improved a lot this past year is in infrastructure.
     In particular, it's now quite straightforward to work with stdlib, whether as a developer or a user.
     So the has three dependencies: a reasonably modern Fortran compiler, a reasonably recent version of CMake (or just make if you prefer), and the fypp preprocessor, which is used mainly as a templating engine for writing generic procedures.
     These are individually not hard to install on most systems, but one might be worried about having conflicting versions of Fortran compilers or CMake on one system.
@@ -257,7 +257,7 @@ stdlib.branch = "stdlib-fpm"
 
   \note{
     For a long time, stdlib's preprocessing needs were difficult to accomodate with fpm.
-    Now we maintain a branch of stdlib that just contains the pre-processed Fortran source, exacly the way fpm wants it.
+    Now we maintain a branch of stdlib that just contains the pre-processed Fortran source, exactly the way fpm wants it.
     Not only is it possible to build standalone stdlib using fpm, but it's trivial to include it as a dependency.
     With just a few lines in your fpm.toml, all of stdlib is available and ``just works''!
   }
@@ -345,7 +345,7 @@ stdlib.branch = "stdlib-fpm"
 
   \note{
     Here are some additions and improvements to look forward to in the next year or so.
-    The highlights are: procedures for various probability distributions andsampling pseudo-random numbers from them;
+    The highlights are: procedures for various probability distributions and sampling pseudo-random numbers from them;
     derived types for generic collections (linked lists, see Chetan's talk today, and a map/dictionary type);
     and cross-platform procedures for querying the operating system and manipulating the file system
     (such as listing and traversing directories, removing or copying files, etc.).
@@ -362,7 +362,7 @@ stdlib.branch = "stdlib-fpm"
   \item stdlib aims to be a de facto standard library of general-purpose and numerical facilities for Fortran
   \item Roughly doubled in size in the past year, both in terms of modules and contributors
   \item New modules include bitsets, logging, math utilities, sorting, special functions, RNG, and string handling
-  \item Infrastructure and packaging improvments have made stdlib easier to install and use
+  \item Infrastructure and packaging improvements have made stdlib easier to install and use
   \end{itemize}
 \end{frame}
 
