@@ -3,6 +3,7 @@
 ## Authors
 
 - [Sebastian Ehlert](https://github.com/awvwgk)
+- [Ondřej Čertík](https://github.com/certik)
 - [Milan Curcic](https://github.com/milancurcic)
 - [Jakub Jelínek](https://github.com/kubajj)
 - [Laurence Kedward](https://github.com/lkedward)
@@ -35,3 +36,14 @@ Fpm is written in Fortran and built with itself, making it easy to bootstrap and
 The positive effect of a Fortran implementation is the easy accessibility of the codebase, which enables the community to contribute back and improve fpm further.
 While fpm is relatively new and still rapidly developing, it already found adoption even for large-scale projects today.
 Features to incorporate build requirements emerging from developing parallel applications or integrations with GUI environments are planned or under active development.
+
+## Slides
+
+To build the slides use
+
+```
+lualatex main
+lualatex main
+```
+
+The fonts Source Sans Pro and Source Code Pro are required.

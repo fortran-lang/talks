@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="195.51157mm"
+   height="74.987801mm"
+   viewBox="0 0 195.51156 74.987799"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="dependencies.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="1.2624522"
+     inkscape:cx="339.41879"
+     inkscape:cy="124.7572"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path106468" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-142.19292,-104.37383)">
+    <rect
+       style="fill:#33322e;fill-opacity:1;stroke:none;stroke-width:1.69319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect106234"
+       width="195.51157"
+       height="74.987801"
+       x="142.19292"
+       y="104.37383"
+       rx="5" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:4.05694px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';stroke-width:0.264583"
+       x="147.5849"
+       y="111.64658"
+       id="text112723"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="111.64658"
+         id="tspan112673">name <tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan121188">=</tspan> <tspan
+   style="fill:#a34e9c;fill-opacity:1"
+   id="tspan116872">&quot;lib&quot;</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="116.84312"
+         id="tspan133676" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="122.03964"
+         id="tspan133678"><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan142856">[</tspan><tspan
+           style="fill:#41967a;fill-opacity:1"
+           id="tspan184448">dependencies</tspan><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan140484">]</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="127.23618"
+         id="tspan145096">toml-f<tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan54872">.</tspan>git <tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan154436">=</tspan> <tspan
+   style="fill:#a34e9c;fill-opacity:1"
+   id="tspan146712">&quot;https://github.com/toml-f/toml-f&quot;</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="132.43271"
+         id="tspan86978">stdlib <tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan109222">= {</tspan>git<tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan107282">=</tspan><tspan
+   style="fill:#a34e9c;fill-opacity:1"
+   id="tspan91312">&quot;https://github.com/fortran-lang/stdlib&quot;</tspan><tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan104574">,</tspan> branch<tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan101962">=</tspan><tspan
+   style="fill:#a34e9c;fill-opacity:1"
+   id="tspan93978">&quot;stdlib-fpm&quot;</tspan><tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan99188">}</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="137.62923"
+         id="tspan41858" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#33322e;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="142.82576"
+         id="tspan41860"><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan28581">[</tspan><tspan
+           style="fill:#41967a;fill-opacity:1"
+           id="tspan50232">dev-dependencies</tspan><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan26869">]</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#33322e;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="148.02229"
+         id="tspan65340"><tspan
+   style="fill:#c96d57;fill-opacity:1"
+   id="tspan79768">test-drive</tspan><tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan35297">.</tspan><tspan
+   style="fill:#c96d57;fill-opacity:1"
+   id="tspan83292">git</tspan> <tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan38881">=</tspan> <tspan
+   style="fill:#a34e9c;fill-opacity:1"
+   id="tspan70748">&quot;https://github.com/fortran-lang/test-drive&quot;</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="153.21883"
+         id="tspan158362" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="158.41536"
+         id="tspan158364"><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan173940">[[</tspan><tspan
+           style="fill:#41967a;fill-opacity:1"
+           id="tspan187918">executable</tspan><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan171538">]]</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="163.61188"
+         id="tspan112721">name <tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan168752">=</tspan> <tspan
+   style="fill:#a34e9c;fill-opacity:1"
+   id="tspan164556">&quot;runner&quot;</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#33322e;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="168.80841"
+         id="tspan992"><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan44117">[</tspan><tspan
+           style="fill:#41967a;fill-opacity:1"
+           id="tspan25158">executable</tspan><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan45739">.</tspan><tspan
+           style="fill:#41967a;fill-opacity:1"
+           id="tspan26930">dependencies</tspan><tspan
+           style="fill:#d8d8d6;fill-opacity:1"
+           id="tspan47535">]</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source code Pro';-inkscape-font-specification:'Source code Pro';fill:#c96d57;fill-opacity:1;stroke-width:0.264583"
+         x="147.5849"
+         y="174.00494"
+         id="tspan195298">M_CLI2<tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan33220">.</tspan>git <tspan
+   style="fill:#d8d8d6;fill-opacity:1"
+   id="tspan212934">=</tspan> <tspan
+   style="fill:#a34e9c;fill-opacity:1"
+   id="tspan218744">&quot;https://github.com/urbanjost/M_CLI2&quot;</tspan></tspan></text>
+  </g>
+</svg>
