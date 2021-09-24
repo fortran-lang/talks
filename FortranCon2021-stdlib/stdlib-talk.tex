@@ -47,18 +47,19 @@
   \begin{itemize}
   \item Part of fortran-lang: https://github.com/fortran-lang/stdlib
   \item Make Fortran easier to use and more powerful
+  \item Prototype future intrinsics \& provide reference implementation
   \item Scope: both general purpose (C++/Python) \& numerical (Matlab/SciPy)
     \begin{description}[Mathematics]
     \item[Utilities] strings, logging, filesystem interaction
     \item[Algorithms] searching, sorting
     \item[Mathematics] linear algebra, special functions, statistics
     \end{description}
-  \item Prototype future intrinsics \& provide reference implementation
   \end{itemize}
 
   \note{
     Before I can show off what's new in the standard library, let's have a few words about what it is.
     It's a volunteer effort maintained under the fortran-lang organization, with the code hosted on Github.
+    One aim of stdlib is to serve as a testing ground for future intrinsics and to provide reference implementations.
     The main goal is to bridge the gap between what's offered intrinsically in the language versus the high-level code one would like to write in applications.
     This makes the scope of the Fortran standard library quite wide.
     We want to offer general programming-type things like common algorithms a la C++, while also providing a good base of numerically-oriented functionality like what's found in Matlab or the Python scientific ecosystem.
@@ -236,7 +237,6 @@ end
     Included in that are two Google Summer of Code students Aman Godara and Chetan Karwa, who we will hear from shortly.
     What that figure doesn't include is contributions made in the form of Issues and reviews of Pull Requests.
     It's really great to see over 100 new Issues opened in the past year, since this not only includes bug reports but also discussion of workflow improvements and proposals for new features.
-    And looking at the timeline of commits since last year's FortranCon, we see a nice sustained development with big rushes of new development at the end of last summer and throughout this summer.
   }
 \end{frame}
 
