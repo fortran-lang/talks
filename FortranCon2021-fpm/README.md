@@ -47,3 +47,8 @@ lualatex main
 ```
 
 The fonts Source Sans Pro and Source Code Pro are required.
+
+
+## License
+
+This talk is available under the MIT license, with exception for the beamer theme which is dual licensed with GPL-3.0-or-later and the LaTeX Project Public License.
