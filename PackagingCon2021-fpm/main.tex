@@ -60,9 +60,9 @@ John~Urban}
 
 \begin{frame}{What is Fortran?}
    \begin{itemize}
-      \item Fortran was developed by John Backus' team at IBM in 1954--1957
-      \item created to ease translation of \alert{mathematical formulas} into machine code
       \item the first \alert{high-level}, \alert{optimized}, and \alert{cross-platform} programming language
+      \item Fortran was developed by John Backus's team at IBM in 1954--1957
+      \item created to ease translation of \alert{mathematical formulas} into machine code
       \item highly successful in scientific computing and engineering
       \item many scientific applications and libraries are developed in Fortran
       \item language still under active development, latest standard is \alert{2018}
@@ -85,7 +85,7 @@ John~Urban}
       \item impossible to depend on a project without redistributing it
          \\[2ex]
       \item[\alert{▶}] create a \alert{Fortran-specific} build system and package manager to fix this
-      \item[\alert{▶}] make it easy to create \alert{reusable} Fortran libraries
+      \item[\alert{▶}] make it easy to create and distribute \alert{reusable} Fortran libraries
       \item[\alert{▶}] Fortran package manager (\alert{fpm})
    \end{itemize}
 \end{frame}
@@ -125,19 +125,19 @@ John~Urban}
 
 \section{Implementing fpm in Fortran}
 
-\begin{frame}{Language choice for implementing a package manager}
+\begin{frame}{Choosing the language to implement a package manager}
    \begin{columns}
       \hskip.5em
       \begin{column}{.46\textwidth}
          \begin{itemize}
             \item fast without much overhead
-            \item self-contained and simple to setup
+            \item self-contained and simple to set up
             \item easily accessible for users/contributors
          \end{itemize}
       \end{column}
       \begin{column}{.49\textwidth}
          \begin{itemize}
-            \item[\alert{▶}] use compiled language
+            \item[\alert{▶}] use a compiled language
             \item[\alert{▶}] small runtime library or static binaries
             \item[\alert{▶}] mostly Fortran developers
          \end{itemize}
