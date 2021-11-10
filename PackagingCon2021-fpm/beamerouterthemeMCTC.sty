@@ -1,0 +1,82 @@
+% Copyright 2007 by Till Tantau
+% Copyright 2015 by Vedran Mileti\'c, Joseph Wright
+% Copyright 2019 Sebastian Ehlert
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+%
+% See the file doc/licenses/LICENSE for more details.
+
+\setbeamercolor{section in head/foot}{parent=palette tertiary}
+\setbeamercolor{subsection in head/foot}{parent=palette secondary}
+\setbeamercolor{author in head/foot}{parent=subsection in head/foot}
+\setbeamercolor{title in head/foot}{parent=subsection in head/foot}
+
+\newif\ifbeamer@theme@subsection
+\beamer@theme@subsectiontrue
+
+\DeclareOptionBeamer{subsection}[true]{\csname beamer@theme@subsection#1\endcsname}
+\ProcessOptionsBeamer
+
+\mode<presentation>
+
+\AtBeginDocument{
+  \pgfdeclareverticalshading{beamer@topshade}{\paperwidth}{%
+    color(0pt)=(bg);
+    color(1pt)=(black!50!bg)}
+}
+
+\setbeamertemplate{mini frames}[box]
+                                % Head
+\defbeamertemplate*{headline}{awvwgk theme}
+{%
+  \begin{beamercolorbox}[colsep=.1pt]{upper separation line head}
+  \end{beamercolorbox}
+  \begin{beamercolorbox}{section in head/foot}
+     \vskip2pt\hskip5pt\raisebox{-6.5pt}{\pgfuseimage{logo}}%
+     \hskip2pt\insertnavigation{.8\paperwidth}\vskip2pt
+  \end{beamercolorbox}%
+  \ifbeamer@theme@subsection%
+  \begin{beamercolorbox}[colsep=.1pt]{middle separation line head}
+  \end{beamercolorbox}
+  \begin{beamercolorbox}[ht=2.5ex,dp=1.125ex,%
+     leftskip=.4cm,rightskip=.4cm plus1fil]{subsection in head/foot}
+     \usebeamerfont{subsection in head/foot}\insertsubsectionhead
+  \end{beamercolorbox}%
+  \vskip-3.625ex
+  \pgfuseshading{beamer@topshade}
+  \vskip+3.625ex
+  \vskip-1pt
+  \fi%
+  \begin{beamercolorbox}[colsep=.1pt]{lower separation line head}
+  \end{beamercolorbox}
+  \pgfuseshading{beamer@topshade}
+  \vskip-1pt
+}
+
+\defbeamertemplate*{footline}{awvwgk theme}
+{%
+   %\leavevmode%
+   %\begin{beamercolorbox}[colsep=.1pt]{upper separation line foot}%
+   %\end{beamercolorbox}%
+   \hbox{%
+      \begin{beamercolorbox}%
+         [ht=2.5ex,dp=1.125ex,leftskip=.4cm,rightskip=.4cm]%
+         {author in head/foot}%
+         \usebeamerfont{title in head/foot}%
+         \insertshortauthor\ -\ \insertshorttitle\hfill%
+         \usebeamerfont{page number in head/foot}%
+         \usebeamertemplate{page number in head/foot}%
+      \end{beamercolorbox}
+   }%
+   \vskip-3.625ex%
+   \pgfuseshading{beamer@topshade}%
+   \vskip+3.625ex%
+   \vskip-1pt%
+}
+
+
+\mode
+<all>

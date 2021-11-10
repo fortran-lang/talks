@@ -1,0 +1,43 @@
+% Copyright 2019 Sebastian Ehlert
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+%
+% See the file doc/licenses/LICENSE for more details.
+
+\definecolor{darkgrey}{HTML}{929084}
+\colorlet{dark}{darkgrey!35!black}
+\definecolor{palegrey}{HTML}{DDE0D9}
+\colorlet{light}{palegrey!35!white}
+
+\setbeamercolor{uni blue}{fg=light,bg=blue}
+\setbeamercolor{uni grey}{fg=black,bg=darkgrey}
+\setbeamercolor{uni yellow}{fg=dark,bg=yellow}
+
+\setbeamercolor{structure}{fg=dark,bg=light}
+\setbeamercolor{normal text}{fg=dark,bg=light!50}
+\setbeamercolor{frametitle}{parent=normal text,bg=}
+
+\setbeamercolor{titlelike}{parent=structure}
+\setbeamercolor{author}{parent=normal text}
+\setbeamercolor{institute}{parent=normal text}
+\setbeamercolor{date}{parent=normal text}
+
+\setbeamerfont{title in head/foot}{family=\ttfamily}
+\setbeamerfont{page number in head/foot}{family=\ttfamily}
+\setbeamerfont{subsection in head/foot}{family=\ttfamily}
+
+\setbeamercolor*{palette primary}{fg=light,bg=blue}
+\setbeamercolor*{palette secondary}{parent=structure}
+\setbeamercolor*{palette tertiary}{parent=structure,fg=structure.bg,bg=structure.fg}
+\setbeamercolor*{palette quaternary}{parent=structure,fg=white,bg=structure.fg}
+
+\setbeamercolor{block title}{parent=structure,fg=white,bg=structure.fg!75!dark}
+\setbeamercolor{block title alerted}{parent=alerted text,fg=white,bg=alerted text.fg!75!dark}
+\setbeamercolor{block title example}{parent=example text,fg=white,bg=example text.fg!75!dark}
+
+\setbeamercolor{block body}{parent=normal text,parent=block title,bg=block title.bg!10!bg}
+\setbeamercolor{block body alerted}{parent=normal text,parent=block title alerted,bg=block title alerted.bg!10!bg}
+\setbeamercolor{block body example}{parent=normal text,parent=block title example,bg=block title example.bg!10!bg}
