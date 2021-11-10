@@ -20,6 +20,7 @@
 \definecolor{yellow}{HTML}{FBB900}
 
 \pgfdeclareimage[width=.025\paperwidth]{logo}{Figures/logo-fortran}
+\pgfdeclareimage[width=.2cm]{gh}{Figures/logo-github}
 \usecolortheme{MCTC}
 \useoutertheme[subsection=false]{MCTC}
 \useinnertheme{rounded}
@@ -38,7 +39,8 @@ Emanuele~Pagone,
 Brad~Richardson,
 John~Urban}
 \institute{\includegraphics[width=.5in]{Figures/logo-fortran}}
-\date{10th November, 2021\\PackagingCon}
+\date{10th November, 2021\\PackagingCon\\[1ex]\footnotesize
+\pgfuseimage{gh}\ \texttt{awvwgk} \quad \pgfuseimage{gh}\ \texttt{fortran-lang}}
 
 \begin{document}
 
@@ -90,6 +92,9 @@ John~Urban}
    \end{itemize}
 \end{frame}
 
+
+\section{Implementing fpm in Fortran}
+
 \begin{frame}{Specialities about Fortran}
    \begin{itemize}
       \item Fortran uses modules to share symbols between packages\\(since Fortran 90, C++20 modules are similar)
@@ -99,9 +104,6 @@ John~Urban}
       \item no ABI compatibility between compilers and no standardized module format
    \end{itemize}
 \end{frame}
-
-
-\section{Implementing fpm in Fortran}
 
 \begin{frame}{Choosing the language to implement a package manager}
    \begin{columns}
@@ -296,16 +298,21 @@ John~Urban}
          \vskip-2ex
 
          \scriptsize
-         Data collected from GitHub and GitLab on 15th Sep, 2021  % TODO: Update
+         Data collected from GitHub and GitLab on 10th Nov, 2021
       \end{column}
       \hskip-1em
       \begin{column}{.55\textwidth}
          \begin{itemize}
-            \item today \alert{173} open source projects are using fpm  % TODO: Update
-            \item ca. \alert{160} unique developers have contributed\\ to those projects  % TODO: Update
+            \item today \alert{193} open source projects are using fpm
+            \item ca. \alert{170} unique developers have contributed\\ to those projects
             \item \alert{62} contributors at the fpm project
             \item code contributions from \alert{21} developers to fpm
             \item hosted on GitHub (MIT licensed):\\\alert{https://github.com/fortran-lang/fpm}
+            \item already available with\\[1ex]
+               \includegraphics[height=1.5em]{Figures/logo-spack}
+               \includegraphics[height=1.5em]{Figures/logo-conda-forge}
+               \includegraphics[height=1.5em]{Figures/logo-msys2}
+               \includegraphics[height=1.5em]{Figures/logo-brew}
          \end{itemize}
       \end{column}
    \end{columns}
@@ -313,8 +320,21 @@ John~Urban}
 
 \begin{frame}{Open questions}
    \begin{itemize}
-      \item can we integrate fpm seamlessly with other packaging ecosystems
+      \item creation of a registry for Fortran packages
+      \item integration of fpm with other packaging ecosystems
+      \item fine grained compiler option selection
+      \item optional dependencies and variants
    \end{itemize}
 \end{frame}
+
+\section{}
+
+\setbeamercolor{normal text}{fg=light,bg=dark}
+\begin{frame}[plain]
+   \begin{center}
+      \includegraphics[width=.8\textwidth]{Figures/fortran-lang.pdf}
+   \end{center}
+\end{frame}
+\setbeamercolor{normal text}{fg=dark,bg=light!50}
 
 \end{document}
