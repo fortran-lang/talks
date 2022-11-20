@@ -4,17 +4,16 @@ Abstract (and slides) for the [deRSE23](https://de-rse23.sciencesconf.org/) conf
 
 * Title: Fortran-Lang: an open source Fortran community
 * Presenter: Ivan Pribec
-* Co-authors: 
+* Co-authors: Vincent Magnin, Asdrubal Lozada-Blanco, Ondrej Certik, Jeremie Vandenplas
 
 ## Abstract
 
-A thriving community is essential for the success and long-term survival of a programming language. 
-Despite the importance of Fortran in science and engineering, and continuous developments in the language itself,
+A thriving community is vital for the success and long-term survival of a programming language. 
+Despite the importance of Fortran in science and engineering, and evolution of the language itself,
 attracting new users and retaining existing ones has proven challenging for Fortran.
 
-In this talk, I will share the motivations behind the new Fortran-lang community efforts. 
-This includes the Fortran package manager, standard library, website, and other tools. 
-Fortran-lang aims to provide a central place for Fortran users, beginners and experts alike, 
-fulfilling a complementary role to the language standardization committee and compiler vendor communities.
-Building upon the common best practices in programming and software development, 
-we hope to help reduce the language learning curve and increase adoption of Fortran in the future.
+In this talk, I will share the recent Fortran-lang community efforts including the Fortran package manager, standard library, website, LFortran compiler and other tools. 
+Fortran-lang aims to provide a central place for Fortran users,
+complementing the language standardization committee and compiler vendor communities.
+Building upon the common best practices in software development, 
+we hope to reduce the language learning curve and promote Fortran in the future.
