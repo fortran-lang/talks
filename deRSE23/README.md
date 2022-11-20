@@ -4,7 +4,7 @@ Abstract (and slides) for the [deRSE23](https://de-rse23.sciencesconf.org/) conf
 
 * Title: Fortran-Lang: an open source Fortran community
 * Presenter: Ivan Pribec
-* Co-authors:
+* Co-authors: 
 
 ## Abstract
 
@@ -15,6 +15,6 @@ attracting new users and retaining existing ones has proven challenging for Fort
 In this talk, I will share the motivations behind the new Fortran-lang community and presents its
 suite of projects. This includes the Fortran package manager, standard library, website, and other tools. 
 Fortran-lang aims to provide a central place for Fortran users, beginners and experts alike, 
-which fulfills an orthogonal role to the language standardization committee, and compiler developer channels.
+which fulfills an orthogonal role to the language standardization committee and compiler vendor communities.
 Building upon the common best practices in programming and software development, we hope
 we can help reduce the learning curve and increase adoption of Fortran in the future.
