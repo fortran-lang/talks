@@ -8,12 +8,4 @@ Abstract (and slides) for the [deRSE23](https://de-rse23.sciencesconf.org/) conf
 
 ## Abstract
 
-A thriving community is vital for the success and continuity of a programming language. 
-Despite the importance of Fortran in science and engineering, and evolution of the language itself,
-attracting new users and retaining existing ones has proven challenging for Fortran.
-
-In this talk, I will present the efforts of the Fortran-lang community including the Fortran package manager, standard library, website, LFortran compiler and other tools. 
-Fortran-lang aims to provide a central place for Fortran users,
-complementing the language standardization committee and compiler vendor communities.
-Building upon the common best practices in software development, 
-we aim to reduce the language learning curve and promote Fortran adoption.
+A thriving community is vital for the success and continuity of a programming language. Despite Fortran’s role in science and engineering, and evolution of the language itself, attracting new users and retaining existing ones has been a challenge for Fortran. To address this, an open-source community Fortran-lang has formed in 2019. Here, we present the efforts of Fortran-lang such as the Fortran package manager, standard library, website, LFortran compiler and other tools. Fortran-lang aims to provide a central place for Fortran users, complementing the language standardization and compiler communities. Building on the best practices in software development, we aim to reduce the language learning curve and promote Fortran adoption.
