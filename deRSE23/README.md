@@ -2,9 +2,9 @@
 
 Abstract (and slides) for the [deRSE23](https://de-rse23.sciencesconf.org/) conference.
 
-* Title: Fortran-Lang: an open source Fortran community
+* Title: Introducing the Fortran-lang community
 * Presenter: Ivan Pribec
-* Co-authors: Vincent Magnin, Asdrubal Lozada-Blanco, Ondrej Certik, Jeremie Vandenplas
+* Co-authors: Vincent Magnin, Asdrubal Lozada-Blanco, Ondrej Certik, Jeremie Vandenplas, Milan Curcic
 
 ## Abstract
 
