@@ -4,7 +4,7 @@ Abstract (and slides) for the [deRSE23](https://de-rse23.sciencesconf.org/) conf
 
 * Title: Introducing the Fortran-lang community
 * Presenter: Ivan Pribec
-* Co-authors: Vincent Magnin, Asdrubal Lozada-Blanco, Ondrej Certik, Jeremie Vandenplas, Milan Curcic, Rohit Goswami, Sebastian Ehlert, Ioannis Nikiteas, Gabriele Bellomia, Carl Burkert, Emanuele Pagone, Brad Richardson
+* Co-authors: Vincent Magnin, Asdrubal Lozada-Blanco, Ondrej Certik, Jeremie Vandenplas, Milan Curcic, Rohit Goswami, Sebastian Ehlert, Ioannis Nikiteas, Gabriele Bellomia, Carl Burkert, Emanuele Pagone, Brad Richardson, Amir Shahmoradi
 
 ## Abstract
 
